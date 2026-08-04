@@ -1,0 +1,6 @@
+{
+  "Name": "Native_Staj_UiPathStudio_Tanitimi",
+  "ProjectType": "Process",
+  "Description": "Native Digital bünyesindeki stajımın UI Path Studio arayüzünü öğrenme dersinin projesi.",
+  "MainFile": "Main.xaml"
+}
