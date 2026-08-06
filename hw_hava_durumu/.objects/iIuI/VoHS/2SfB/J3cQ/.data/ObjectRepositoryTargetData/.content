@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="GaTXe4RyoEK4iRaHNoVhCA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="google.com" DesignTimeRectangle="589, 692, 765, 25" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl aaname='ista' tag='SPAN' /&gt;" Guid="27bf6db9-6ec4-4b81-b1b8-c07922a35b84" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Google' /&gt;" SearchSteps="Selector" Version="V6">
+      <imageRef attrName="InformativeScreenshot" originalValue="160d594fca0fdfdfd0b4e7c31189382e.jpg" xmlns="">0wDWskmGlVEmegYF1gUupYQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

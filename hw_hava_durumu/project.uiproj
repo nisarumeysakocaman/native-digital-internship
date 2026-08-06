@@ -1,0 +1,6 @@
+{
+  "Name": "hw_hava_durumu",
+  "ProjectType": "Process",
+  "Description": "Tarayıcıyı açtırıp arama kısmına şehir ve hava durumu yazdırıp hava durumu bilgisini ekrana yazdırma işlemleri",
+  "MainFile": "Main.xaml"
+}
