@@ -8,5 +8,7 @@
 4. **Data Extraction and Notification:** The current weather information is extracted from the page using `Get Text`, then:
    - Logged to system logs (`Log Message`)
    - Displayed to the user as a real-time notification (`Message Box`)
+  
+    - ![Uygulama Ekran Kaydı](assets/hw_hava_durumu_demo.gif)
 
  
