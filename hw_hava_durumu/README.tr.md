@@ -1,3 +1,5 @@
+[🇹🇷 Türkçe](README.tr.md) | [🇬🇧 English](README.md)
+
 ### 🔄 İş Akış Adımları
 
 1. **Şehir Ataması:** `Assign` aktivitesi ile hedef şehir ismi dinamik bir değişkene aktarılır.
