@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="VjvA_sAqPEyx7D25U0knhA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="rpachallenge.com/assets/shortestPath/public/shortestpath.html" DesignTimeRectangle="429, 655, 708, 22" ElementType="Text" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl tag='H5' aaname='Origin' /&gt;" Guid="9d8be50d-736e-4b64-875b-b0471a8880a2" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Automation Challenge' /&gt;" SearchSteps="Selector" Version="V6">
+      <imageRef attrName="InformativeScreenshot" originalValue="d964bc3a7ead6a15593a5f903285288c.jpg" xmlns="">0aUVzFabeeU-FS7uysuyumA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

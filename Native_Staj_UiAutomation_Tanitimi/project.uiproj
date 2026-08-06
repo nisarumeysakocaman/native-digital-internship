@@ -1,0 +1,6 @@
+{
+  "Name": "Native_Staj_UiAutomation_Tanitimi",
+  "ProjectType": "Process",
+  "Description": "Web arayüzünden yapılacak işlemlerin gösterimi",
+  "MainFile": "Main.xaml"
+}

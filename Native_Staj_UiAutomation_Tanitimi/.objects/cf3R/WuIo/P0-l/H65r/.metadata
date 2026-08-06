@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Click 'Shortest Path'",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "H65rDrePe0autseIBuq4bA",
+  "Reference": "kpbBnbOMUUqv4KKxepgTUw/H65rDrePe0autseIBuq4bA",
+  "ParentRef": "kpbBnbOMUUqv4KKxepgTUw/P0-lINQ1w0CudnC47jAnQA",
+  "Created": "2026-08-06T10:29:19.9890981Z",
+  "Updated": "2026-08-06T10:29:19.9890981Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.37.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.7.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

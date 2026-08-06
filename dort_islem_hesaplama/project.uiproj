@@ -1,0 +1,6 @@
+{
+  "Name": "dort_islem_hesaplama",
+  "ProjectType": "Process",
+  "Description": "Bu projede variable ve arguments kullanarak toplama,çıkarma,çarpma ve bölme işlemlerini yaptıracağım.",
+  "MainFile": "Main.xaml"
+}
