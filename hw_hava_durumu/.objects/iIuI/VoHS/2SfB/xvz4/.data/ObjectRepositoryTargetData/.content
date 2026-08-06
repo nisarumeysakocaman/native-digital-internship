@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-16"?>
-<ObjectRepositoryTargetData ContentHash="iF1P2H4Ri0Cdboss2cEhzA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
-  <ObjectRepositoryTargetData.Data>
-    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="google.com/search" DesignTimeRectangle="359, 420, 66, 75" ElementType="Text" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl id='wob_tm' tag='SPAN' aaname='25' /&gt;" Guid="c6d7338a-c056-4d5a-8af7-7f5c7da54839" ScopeSelectorArgument="&lt;html app='chrome.exe' title='istanbul hava durumu - Google&amp;apos;da Ara' /&gt;" SearchSteps="Selector" Version="V6">
-      <imageRef attrName="InformativeScreenshot" originalValue="2baf5f9c830514a9459db7713cad0d0f.jpg" xmlns="">0XkCTaylmokW80112ZW6Rvw</imageRef>
-    </TargetAnchorable>
-    <x:String x:Key="ActivityType">GetText</x:String>
-  </ObjectRepositoryTargetData.Data>
-</ObjectRepositoryTargetData>
