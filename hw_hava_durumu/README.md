@@ -1,1 +1,1 @@
-![Uygulama Ekran Kaydı](asset/hw_hava_durumu.gif)
+![Uygulama Ekran Kaydı](asset/hava_durumu_demo.gif)
