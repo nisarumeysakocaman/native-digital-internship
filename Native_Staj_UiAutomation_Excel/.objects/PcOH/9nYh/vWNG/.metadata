@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Chrome Satılık, Kiralık Emlak İlanları sahibi",
+  "Type": "Screen",
+  "Id": "vWNGkfrQAkWon5RQMYvdNA",
+  "Reference": "WYLQ-Vi2SUmhLXtd9HrMyg/vWNGkfrQAkWon5RQMYvdNA",
+  "ParentRef": "WYLQ-Vi2SUmhLXtd9HrMyg/9nYhDTtx_kWFLIFkjqoC9g",
+  "Created": "2026-08-07T16:17:15.063885Z",
+  "Updated": "2026-08-07T16:17:15.063885Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.38.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.7.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

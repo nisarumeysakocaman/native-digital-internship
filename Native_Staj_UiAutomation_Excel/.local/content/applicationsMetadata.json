@@ -1,0 +1,57 @@
+﻿{
+  "Version": "1.0",
+  "Metadata": [
+    {
+      "ApplicationType": "WindowsApplication",
+      "ExecutablePath": {
+        "Value": "excel.exe",
+        "IsExpression": false
+      },
+      "Url": null,
+      "Arguments": {
+        "Value": "str_excel_yolu",
+        "IsExpression": true
+      },
+      "Version": null
+    },
+    {
+      "ApplicationType": "Chrome",
+      "ExecutablePath": {
+        "Value": "chrome.exe",
+        "IsExpression": false
+      },
+      "Url": {
+        "Value": "https://rpachallenge.com",
+        "IsExpression": false
+      },
+      "Arguments": null,
+      "Version": null
+    },
+    {
+      "ApplicationType": "Chrome",
+      "ExecutablePath": {
+        "Value": "chrome.exe",
+        "IsExpression": false
+      },
+      "Url": {
+        "Value": "https://www.sahibinden.com",
+        "IsExpression": false
+      },
+      "Arguments": null,
+      "Version": null
+    },
+    {
+      "ApplicationType": "Chrome",
+      "ExecutablePath": {
+        "Value": "chrome.exe",
+        "IsExpression": false
+      },
+      "Url": {
+        "Value": "str_url",
+        "IsExpression": true
+      },
+      "Arguments": null,
+      "Version": null
+    }
+  ]
+}

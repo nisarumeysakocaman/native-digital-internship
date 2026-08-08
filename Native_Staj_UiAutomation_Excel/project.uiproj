@@ -1,0 +1,6 @@
+{
+  "Name": "Native_Staj_UiAutomation_Excel",
+  "ProjectType": "Process",
+  "Description": "Bu projede selektörler,aktiviteler ve excel ile ilgili uygulamalar bulunmaktadır.",
+  "MainFile": "Main.xaml"
+}

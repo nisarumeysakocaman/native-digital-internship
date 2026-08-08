@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Chrome Satılık, Kiralık Emlak İlanları sahibinden.com'da",
+  "Type": "App",
+  "Id": "PcOHRm2HsEy72Y1Li-oL7A",
+  "Reference": "WYLQ-Vi2SUmhLXtd9HrMyg/PcOHRm2HsEy72Y1Li-oL7A",
+  "Created": "2026-08-07T16:17:15.0271285Z",
+  "Updated": "2026-08-07T16:17:15.0271285Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.38.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.7.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

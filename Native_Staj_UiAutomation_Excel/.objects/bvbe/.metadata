@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Chrome karaman hava durumu - Google'da Ara",
+  "Type": "App",
+  "Id": "bvbebTQLH0yExCzsO_CfnQ",
+  "Reference": "WYLQ-Vi2SUmhLXtd9HrMyg/bvbebTQLH0yExCzsO_CfnQ",
+  "Created": "2026-08-07T17:22:17.8035683Z",
+  "Updated": "2026-08-07T17:22:17.8035683Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.38.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.7.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "name": "Native_Staj_UiAutomation_Excel",
+  "projectId": "6ca024c3-2506-45ba-bfb0-808b45d1cf43",
+  "description": "Bu projede selektörler,aktiviteler ve excel ile ilgili uygulamalar bulunmaktadır.",
+  "main": "Main.xaml",
+  "dependencies": {
+    "UiPath.Excel.Activities": "[3.5.3]",
+    "UiPath.MicrosoftOffice365.Activities": "[3.11.0-preview]",
+    "UiPath.System.Activities": "[26.6.2]",
+    "UiPath.UIAutomation.Activities": "[25.10.38]"
+  },
+  "webServices": [],
+  "entitiesStores": [],
+  "schemaVersion": "4.1",
+  "studioVersion": "26.0.199.0",
+  "projectVersion": "1.0.0",
+  "runtimeOptions": {
+    "autoDispose": false,
+    "netFrameworkLazyLoading": false,
+    "isPausable": true,
+    "isAttended": false,
+    "requiresUserInteraction": true,
+    "supportsPersistence": false,
+    "workflowSerialization": "NewtonsoftJson",
+    "excludedLoggedData": [
+      "Private:*",
+      "*password*"
+    ],
+    "executionType": "Workflow",
+    "readyForPiP": false,
+    "startsInPiP": false,
+    "mustRestoreAllDependencies": true,
+    "pipType": "ChildSession"
+  },
+  "designOptions": {
+    "projectProfile": "Developement",
+    "outputType": "Process",
+    "libraryOptions": {
+      "privateWorkflows": []
+    },
+    "processOptions": {
+      "ignoredFiles": []
+    },
+    "fileInfoCollection": [],
+    "saveToCloud": false
+  },
+  "expressionLanguage": "VisualBasic",
+  "entryPoints": [
+    {
+      "filePath": "Main.xaml",
+      "uniqueId": "bcb5c72a-4c6e-4c30-85c2-a8b2b6cc4c72",
+      "input": [],
+      "output": []
+    }
+  ],
+  "isTemplate": false,
+  "templateProjectData": {},
+  "publishData": {},
+  "targetFramework": "Windows"
+}

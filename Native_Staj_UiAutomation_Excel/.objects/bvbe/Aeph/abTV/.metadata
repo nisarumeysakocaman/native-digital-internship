@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Chrome karaman hava durumu - Google'da Ara",
+  "Type": "Screen",
+  "Id": "abTVYntLcUCvCzLgMN72xw",
+  "Reference": "WYLQ-Vi2SUmhLXtd9HrMyg/abTVYntLcUCvCzLgMN72xw",
+  "ParentRef": "WYLQ-Vi2SUmhLXtd9HrMyg/AephW_33yUCiDB8YO7Zz9Q",
+  "Created": "2026-08-07T17:22:17.9022345Z",
+  "Updated": "2026-08-07T17:22:17.9022345Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.38.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.7.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

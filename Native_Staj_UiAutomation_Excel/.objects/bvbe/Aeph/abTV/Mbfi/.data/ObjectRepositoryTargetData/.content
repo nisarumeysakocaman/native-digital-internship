@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="DFq2VwGN6kSejUuisunXiQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="google.com/search" DesignTimeRectangle="680, 423, 407, 32" ElementType="Text" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl tag='DIV' aaname='Hava durumu' /&gt;" Guid="a54d668d-93cc-462e-8e46-6cf8e166103e" ScopeSelectorArgument="&lt;html app='chrome.exe' title='karaman hava durumu - Google&amp;apos;da Ara' /&gt;" SearchSteps="Selector" Version="V6">
+      <imageRef attrName="InformativeScreenshot" originalValue="104f54dca064410a7113bb58143bb27d.jpg" xmlns="">0S4DKwklN9EivxgsmyuoUXA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">CheckState</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

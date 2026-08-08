@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Click 'Movie Search'",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "CeFe3TipjUmS7FraOHv5FA",
+  "Reference": "WYLQ-Vi2SUmhLXtd9HrMyg/CeFe3TipjUmS7FraOHv5FA",
+  "ParentRef": "WYLQ-Vi2SUmhLXtd9HrMyg/q4FHd0Pg2kyIniPNSt6ANw",
+  "Created": "2026-08-07T15:15:53.5161046Z",
+  "Updated": "2026-08-07T15:15:53.5161046Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.38.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.7.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
