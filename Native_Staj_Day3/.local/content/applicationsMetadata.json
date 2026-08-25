@@ -1,0 +1,18 @@
+﻿{
+  "Version": "1.0",
+  "Metadata": [
+    {
+      "ApplicationType": "WindowsApplication",
+      "ExecutablePath": {
+        "Value": "excel.exe",
+        "IsExpression": false
+      },
+      "Url": null,
+      "Arguments": {
+        "Value": "C:\\Users\\nisar\\Downloads\\challenge.xlsx",
+        "IsExpression": false
+      },
+      "Version": null
+    }
+  ]
+}

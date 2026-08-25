@@ -1,0 +1,6 @@
+{
+  "Name": "Native_Staj_Error_and_Exception",
+  "ProjectType": "Process",
+  "Description": "Hata ayıklama uygulamalarını içerir.",
+  "MainFile": "Main.xaml"
+}

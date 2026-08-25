@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="CKTHyaRC_EGugPua6KmGUA" Reference="NONNhJAOS0Cy9eiP9fQLqg/XGjM2SOCoEO_1j1SxMBtYg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="rpachallenge.com" DesignTimeRectangle="0, 0, 1938, 1218" ElementType="InputBox" ElementVisibilityArgument="Interactive" Guid="7cf3651e-e8fc-4150-9138-0e23a43bb655" IsResponsive="True" ScopeSelectorArgument="&lt;html app='chrome.exe' url='https://rpachallenge.com/' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="623, 305, 61, 21" ElementType="Text" FullSelectorArgument="&lt;webctrl tag='LABEL' aaname='Address' /&gt;" Guid="0ef3cffc-caab-4766-8d52-1e843cb8199f" SearchSteps="Selector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="5f51da0535681ecd603466e00fd382a5.jpg" xmlns="">0ZtOJxY3_rEyuXC-epo0JPw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

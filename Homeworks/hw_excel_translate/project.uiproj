@@ -1,0 +1,6 @@
+{
+  "Name": "hw_excel_translate",
+  "ProjectType": "Process",
+  "Description": "Excel'den verileri alıp diğer dillere çevirip onları da tabloya yazdırma işlemi",
+  "MainFile": "Main.xaml"
+}

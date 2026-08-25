@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Chrome hava durumu - Google'da Ara",
+  "Type": "Screen",
+  "Id": "Bu19MrRLu0eiQO2c--_Q5g",
+  "Reference": "qNxL-bx7Ckq4cTJgnWEBsw/Bu19MrRLu0eiQO2c--_Q5g",
+  "ParentRef": "qNxL-bx7Ckq4cTJgnWEBsw/y25meA9BAUSpm0JK-TXb9A",
+  "Created": "2026-08-20T07:12:40.1990319Z",
+  "Updated": "2026-08-20T07:12:40.1990319Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.39.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.7.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

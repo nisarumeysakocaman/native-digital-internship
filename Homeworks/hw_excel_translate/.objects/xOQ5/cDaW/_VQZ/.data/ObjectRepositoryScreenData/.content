@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryScreenData ContentHash="PSGGRw7UV0qQSgM3rjN0bw" Reference="bwECCY7QBE2UaRCpuqjm2A/_VQZVDOx7EuX1DgY8P5tuw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:p="http://schemas.microsoft.com/netfx/2009/xaml/activities" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryScreenData.Data>
+    <TargetApp x:Key="TargetApp" Area="-9, -9, 1938, 1218" BrowserType="Chrome" ContentHash="hCAnzSt0zkSvECtP27eZuQ" IconBase64="iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAJGSURBVDhPhZHLaxNRGMVn5cL/yZXQR5omfYkFuym0iBtxIbgQNJZA3g98pA+zsC0NCDWmWNI2m1i0gaQNlYlJZvKYSTJJA1Vw6s1ddXHk3mlCTcUeOFy43N/5znwj3PXr4akgwWSAYJzZTzDmJ7D6CKbdjVvCdWLgVJBiMkgxwRygGA9QjPkprI7T1f73VzQRIP+G/RQWz49zmy1/o5/5S6x2F+4PsPooXm6qkiyXP6mquqVpWqxe12KKUo/VarWPhUJlWmDfzMD7YYqMrENp6jjI6/zO4qN4GD6FmCui2Wyh3W7j5OSEu9VqQdM0CGxhbOKhrOPFJuGTZ0IGPOplLTr4fCBCksscuhJg8RlQvf2Ln692CKS6ju+KzgPMXoqlWAWimMfcczcHu240GhAsXvbLjAYLHwifbI8SJMUzDps9FPe8JTiX1uENR+AKb+BJYAWvI1EjYNRrQHNvKdKSjlpbx6F8htnlDodHPBRsyOJGHF/TWaxFtxFPfkGz2TQCzB7Sq9qzxzCDTe4Oht0dBCIinvpXYA+9Q7lchqqqRsCIm/SAy+BleNjVwYPFBh47Q7AvrkKSJFSrVSiKAsHkJj2gC/XAC3jI1YHJpSORzGArkYRjZQ2lUhmVSgXCwMLPN0PO3+h68MIDDuNk8KDT8PpeBcWihP1UGrIsGwH/k812dPP2nTiYrbN7SO5/gyTJHGZ7uDaAaf5Romae2cX2zhFyuTxv0A1g7n9/Rc+cu/Pvoylks8cQxRwKhQKKxSJfZCpzvPwHH3F9HbAh89sAAAAASUVORK5CYII=" Reference="bwECCY7QBE2UaRCpuqjm2A/_VQZVDOx7EuX1DgY8P5tuw" Selector="&lt;html app='chrome.exe' title='Google Çeviri' /&gt;" Url="[str_url]" Version="V3">
+      <TargetApp.Arguments>
+        <p:InArgument x:TypeArguments="x:String" />
+      </TargetApp.Arguments>
+      <TargetApp.WorkingDirectory>
+        <p:InArgument x:TypeArguments="x:String" />
+      </TargetApp.WorkingDirectory>
+      <imageRef attrName="InformativeScreenshot" originalValue="a0cb1c9cabb71b426542481e85639d5e.jpg" xmlns="">0LfPVaKb90E2gVaoZusXYmg</imageRef>
+    </TargetApp>
+    <scg:List x:TypeArguments="ObjectRepositoryVariableData" x:Key="Variables" Capacity="1">
+      <ObjectRepositoryVariableData Name="str_url" />
+    </scg:List>
+  </ObjectRepositoryScreenData.Data>
+</ObjectRepositoryScreenData>

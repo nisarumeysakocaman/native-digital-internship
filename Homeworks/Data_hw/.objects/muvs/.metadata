@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Chrome Google Çeviri",
+  "Type": "App",
+  "Id": "muvslVzvmkmZ-OzZXy1NYg",
+  "Reference": "vKvKuUAn3EqLuxMjXQeHKw/muvslVzvmkmZ-OzZXy1NYg",
+  "Created": "2026-08-10T15:43:31.3831964Z",
+  "Updated": "2026-08-10T15:43:31.3831964Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.38.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.7.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

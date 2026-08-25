@@ -1,0 +1,6 @@
+{
+  "Name": "Challange_Performer",
+  "ProjectType": "Process",
+  "Description": "Kuyruktaki müşteri verilerini okuyarak RPA Challenge web formunu dinamik seçicilerle dolduran REFramework işlemcisi.",
+  "MainFile": "Main.xaml"
+}

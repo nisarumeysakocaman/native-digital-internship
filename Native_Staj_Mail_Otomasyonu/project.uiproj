@@ -1,0 +1,6 @@
+{
+  "Name": "Native_Staj_Mail_Otomasyonu",
+  "ProjectType": "Process",
+  "Description": "Mail otomasyonu ve 7.ders uygulamalarını içermektedir.",
+  "MainFile": "Main.xaml"
+}

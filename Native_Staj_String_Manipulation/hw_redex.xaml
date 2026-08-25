@@ -1,0 +1,154 @@
+<Activity mc:Ignorable="sap sap2010" x:Class="hw_redex" VisualBasic.Settings="{x:Null}" sap2010:WorkflowViewState.IdRef="hw_redex_1" xmlns="http://schemas.microsoft.com/netfx/2009/xaml/activities" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:sap="http://schemas.microsoft.com/netfx/2009/xaml/activities/presentation" xmlns:sap2010="http://schemas.microsoft.com/netfx/2010/xaml/activities/presentation" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:sco="clr-namespace:System.Collections.ObjectModel;assembly=System.Private.CoreLib" xmlns:ui="http://schemas.uipath.com/workflow/activities" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TextExpression.NamespacesForImplementation>
+    <sco:Collection x:TypeArguments="x:String">
+      <x:String>System.Activities</x:String>
+      <x:String>System.Activities.Statements</x:String>
+      <x:String>System.Activities.Expressions</x:String>
+      <x:String>System.Activities.Validation</x:String>
+      <x:String>System.Activities.XamlIntegration</x:String>
+      <x:String>Microsoft.VisualBasic</x:String>
+      <x:String>Microsoft.VisualBasic.Activities</x:String>
+      <x:String>System</x:String>
+      <x:String>System.Collections</x:String>
+      <x:String>System.Collections.Generic</x:String>
+      <x:String>System.Collections.ObjectModel</x:String>
+      <x:String>System.Data</x:String>
+      <x:String>System.Diagnostics</x:String>
+      <x:String>System.Drawing</x:String>
+      <x:String>System.IO</x:String>
+      <x:String>System.Linq</x:String>
+      <x:String>System.Net.Mail</x:String>
+      <x:String>System.Xml</x:String>
+      <x:String>System.Xml.Linq</x:String>
+      <x:String>UiPath.Core</x:String>
+      <x:String>UiPath.Core.Activities</x:String>
+      <x:String>System.Windows.Markup</x:String>
+      <x:String>GlobalVariablesNamespace</x:String>
+      <x:String>GlobalConstantsNamespace</x:String>
+      <x:String>System.Reflection</x:String>
+      <x:String>System.Linq.Expressions</x:String>
+      <x:String>System.Runtime.Serialization</x:String>
+      <x:String>System.Numerics</x:String>
+    </sco:Collection>
+  </TextExpression.NamespacesForImplementation>
+  <TextExpression.ReferencesForImplementation>
+    <sco:Collection x:TypeArguments="AssemblyReference">
+      <AssemblyReference>System.Activities</AssemblyReference>
+      <AssemblyReference>Microsoft.VisualBasic</AssemblyReference>
+      <AssemblyReference>System.Private.CoreLib</AssemblyReference>
+      <AssemblyReference>mscorlib</AssemblyReference>
+      <AssemblyReference>System.Data</AssemblyReference>
+      <AssemblyReference>System.Data.Common</AssemblyReference>
+      <AssemblyReference>System.Data.DataSetExtensions</AssemblyReference>
+      <AssemblyReference>System</AssemblyReference>
+      <AssemblyReference>System.Linq</AssemblyReference>
+      <AssemblyReference>System.Drawing</AssemblyReference>
+      <AssemblyReference>System.Drawing.Primitives</AssemblyReference>
+      <AssemblyReference>System.Drawing.Common</AssemblyReference>
+      <AssemblyReference>System.Core</AssemblyReference>
+      <AssemblyReference>System.Xml</AssemblyReference>
+      <AssemblyReference>System.Xml.Linq</AssemblyReference>
+      <AssemblyReference>System.Xaml</AssemblyReference>
+      <AssemblyReference>UiPath.System.Activities</AssemblyReference>
+      <AssemblyReference>UiPath.UiAutomation.Activities</AssemblyReference>
+      <AssemblyReference>System.Net.Mail</AssemblyReference>
+      <AssemblyReference>System.ObjectModel</AssemblyReference>
+      <AssemblyReference>System.ComponentModel.TypeConverter</AssemblyReference>
+      <AssemblyReference>UiPath.Studio.Constants</AssemblyReference>
+      <AssemblyReference>System.Reflection.DispatchProxy</AssemblyReference>
+      <AssemblyReference>System.Reflection.TypeExtensions</AssemblyReference>
+      <AssemblyReference>System.Reflection.Metadata</AssemblyReference>
+      <AssemblyReference>System.Console</AssemblyReference>
+      <AssemblyReference>System.Security.Permissions</AssemblyReference>
+      <AssemblyReference>System.Configuration.ConfigurationManager</AssemblyReference>
+      <AssemblyReference>System.ComponentModel</AssemblyReference>
+      <AssemblyReference>System.Memory</AssemblyReference>
+      <AssemblyReference>System.Private.Uri</AssemblyReference>
+      <AssemblyReference>System.Private.ServiceModel</AssemblyReference>
+      <AssemblyReference>System.Collections</AssemblyReference>
+      <AssemblyReference>System.Collections.NonGeneric</AssemblyReference>
+      <AssemblyReference>System.Linq.Expressions</AssemblyReference>
+      <AssemblyReference>System.Private.DataContractSerialization</AssemblyReference>
+      <AssemblyReference>System.Runtime.Serialization.Formatters</AssemblyReference>
+      <AssemblyReference>System.Runtime.Serialization.Primitives</AssemblyReference>
+      <AssemblyReference>System.Runtime.Numerics</AssemblyReference>
+      <AssemblyReference>System.Collections.Immutable</AssemblyReference>
+      <AssemblyReference>System.Linq.Parallel</AssemblyReference>
+      <AssemblyReference>System.Linq.Queryable</AssemblyReference>
+      <AssemblyReference>System.CodeDom</AssemblyReference>
+      <AssemblyReference>Microsoft.VisualBasic.Core</AssemblyReference>
+      <AssemblyReference>Microsoft.VisualBasic.Forms</AssemblyReference>
+    </sco:Collection>
+  </TextExpression.ReferencesForImplementation>
+  <Sequence DisplayName="hw_redex" sap:VirtualizedContainerService.HintSize="854,2225.6" sap2010:WorkflowViewState.IdRef="Sequence_1">
+    <sap:WorkflowViewStateService.ViewState>
+      <scg:Dictionary x:TypeArguments="x:String, x:Object">
+        <x:Boolean x:Key="IsExpanded">True</x:Boolean>
+      </scg:Dictionary>
+    </sap:WorkflowViewStateService.ViewState>
+    <Sequence sap:VirtualizedContainerService.HintSize="449.6,2202.4" sap2010:WorkflowViewState.IdRef="Sequence_2">
+      <Sequence.Variables>
+        <Variable x:TypeArguments="x:String" Name="str_message" />
+        <Variable x:TypeArguments="x:String" Name="str_yazar" />
+        <Variable x:TypeArguments="scg:List(x:String)" Name="list_kitapevi" />
+        <Variable x:TypeArguments="x:String" Name="str_sonuc" />
+      </Sequence.Variables>
+      <sap:WorkflowViewStateService.ViewState>
+        <scg:Dictionary x:TypeArguments="x:String, x:Object">
+          <x:Boolean x:Key="IsExpanded">True</x:Boolean>
+        </scg:Dictionary>
+      </sap:WorkflowViewStateService.ViewState>
+      <Assign DisplayName="Assign metin ataması" sap:VirtualizedContainerService.HintSize="416,174.4" sap2010:WorkflowViewState.IdRef="Assign_1">
+        <Assign.To>
+          <OutArgument x:TypeArguments="x:String">[str_message]</OutArgument>
+        </Assign.To>
+        <Assign.Value>
+          <InArgument x:TypeArguments="x:String">["Türk edebiyatının önde gelen isimlerinden biri ünlü Yazar Ahmet Hamdi Tanpınar. Eserlerini satın alabileceğiniz kitapevleri: D&amp;R, Remzi Kitabevi, Kırmızı Kedi, İnkılâp Kitabevi"]</InArgument>
+        </Assign.Value>
+      </Assign>
+      <ui:LogMessage DisplayName="Log Message" sap:VirtualizedContainerService.HintSize="416,174.4" sap2010:WorkflowViewState.IdRef="LogMessage_1" Level="Info" Message="[&quot;metin atandı&quot;]" />
+      <Assign sap2010:Annotation.AnnotationText="İlk olarak, verilen message metin dizesi, noktalama işaretlerine göre bölünür ve bu bölünmüş parçalardan ilk parça seçilir. Daha sonra, seçilen ilk parça bir metin dizesi olarak ele alınır ve ToString() yöntemiyle tekrar dönüştürülür. Bu metin dizesi içerisinde &quot;Yazar&quot; kelimesi aranır ve &quot;Yazar&quot; kelimesinin son bulunduğu konumun indeksi alınır. Son olarak, bu metin dizesinin, &quot;Yazar&quot; kelimesinin son bulunduğu konumdan başlayarak sonuna kadar olan bölümü, yani &quot;Yazar&quot; kelimesinden sonraki kısmı, geriye döndürülür. Özetle, bu kod, verilen metin dizesindeki &quot;Yazar&quot; kelimesinden sonraki kısmı almayı amaçlamaktadır.&#xD;&#xA;" DisplayName="yazarı bulma" sap:VirtualizedContainerService.HintSize="416,415.2" sap2010:WorkflowViewState.IdRef="Assign_2">
+        <Assign.To>
+          <OutArgument x:TypeArguments="x:String">[str_yazar]</OutArgument>
+        </Assign.To>
+        <Assign.Value>
+          <InArgument x:TypeArguments="x:String">[str_message.Split("."c)(0).ToString().Substring(str_message.Split(","c)(0).ToString().LastIndexOf("Yazar") + 5).Trim()]</InArgument>
+        </Assign.Value>
+        <sap:WorkflowViewStateService.ViewState>
+          <scg:Dictionary x:TypeArguments="x:String, x:Object">
+            <x:Boolean x:Key="IsAnnotationDocked">True</x:Boolean>
+          </scg:Dictionary>
+        </sap:WorkflowViewStateService.ViewState>
+      </Assign>
+      <ui:LogMessage DisplayName="Log Message" sap:VirtualizedContainerService.HintSize="416,174.4" sap2010:WorkflowViewState.IdRef="LogMessage_2" Level="Info" Message="[&quot;yazar ismi alındı&quot;]" />
+      <Assign sap2010:Annotation.AnnotationText="Ilk olarak, verilen message metin dizesi noktalama işaretlerine göre bölünür ve bu bölünmüş parçalardan ikinci parça seçilir (0 tabanlı indeksleme kullanılarak, Split(&quot;.&quot;c)(1) ifadesiyle). Daha sonra, seçilen ikinci parça bir metin dizesi olarak ele alınır ve ToString() yöntemiyle tekrar dönüştürülür. Bu metin dizesi, iki nokta üst üste (&quot;:&quot;c) karakterine göre bölünür ve bölünmüş parçalardan sonuncusu (yani saati temsil eden bölüm) seçilir (.Last.ToString.Split(&quot;,&quot;c) ifadesiyle). Son olarak, bu seçilen bölüm, virgül karakterine göre bölünür ve her parça bir liste öğesi olarak eklenir (.ToList ifadesiyle). Bu kodun amacı, bir metin dizesinden, sadece Kitapçı temsil eden bölümü ayıklayarak, bu saati liste olarak almak ve bu listeyi başka bir işlemde kullanmaktır." DisplayName="kitapevlerini bulma" sap:VirtualizedContainerService.HintSize="416,448" sap2010:WorkflowViewState.IdRef="Assign_3">
+        <Assign.To>
+          <OutArgument x:TypeArguments="scg:List(x:String)">[list_kitapevi]</OutArgument>
+        </Assign.To>
+        <Assign.Value>
+          <InArgument x:TypeArguments="scg:List(x:String)">[str_message.Split("."c)(1).ToString().Split(":"c).Last().ToString().Split(","c).Select(Function(x) x.Trim()).ToList()]</InArgument>
+        </Assign.Value>
+        <sap:WorkflowViewStateService.ViewState>
+          <scg:Dictionary x:TypeArguments="x:String, x:Object">
+            <x:Boolean x:Key="IsAnnotationDocked">True</x:Boolean>
+          </scg:Dictionary>
+        </sap:WorkflowViewStateService.ViewState>
+      </Assign>
+      <Assign sap2010:Annotation.AnnotationText="İlk olarak, &quot;Çıktınız: {0}: {1}&quot; metin dizesi belirtilir. Bu, sonradan yerine eklenecek değerlerin bulunduğu yerleri göstermek için iki adet yer tutucu ({0} ve {1}) içerir. Daha sonra, yazar ve kitapci değişkenleri, bu yer tutuculara sırasıyla yerleştirilmek üzere belirtilir. String.Join(&quot;;&quot;+vbCr, kitapci) ifadesi, kitapci değişkeninde bulunan elemanları birleştirir ve her bir eleman arasına bir noktalı virgül ve satır başı karakteri ekler. Bu şekilde, kitapcıdaki kitaplar virgül ve satır başı karakteri ile ayrılmış bir şekilde listelenir. Son olarak, String.Format() yöntemi kullanılarak, yazar ve kitapci değişkenleri, &quot;Çıktınız: {0}: {1}&quot; formatındaki metin dizisi içerisindeki yer tutuculara yerleştirilir ve bu şekilde bir metin dizesi oluşturulur. Özetle, bu kod, belirli bir formatta bir metin dizesi oluşturmayı amaçlar. Oluşturulan metin dizesi, &quot;Çıktınız: (yazar): {kitapci}&quot; formatındadır." sap:VirtualizedContainerService.HintSize="416,496.8" sap2010:WorkflowViewState.IdRef="Assign_4">
+        <Assign.To>
+          <OutArgument x:TypeArguments="x:String">[str_sonuc]</OutArgument>
+        </Assign.To>
+        <Assign.Value>
+          <InArgument x:TypeArguments="x:String">[String.Format("Çıktınız: {0}: {1}", str_yazar, String.Join(";" + vbCr, list_kitapevi))]</InArgument>
+        </Assign.Value>
+        <sap:WorkflowViewStateService.ViewState>
+          <scg:Dictionary x:TypeArguments="x:String, x:Object">
+            <x:Boolean x:Key="IsAnnotationDocked">True</x:Boolean>
+          </scg:Dictionary>
+        </sap:WorkflowViewStateService.ViewState>
+      </Assign>
+      <WriteLine DisplayName="Write Line" sap:VirtualizedContainerService.HintSize="416,122.4" sap2010:WorkflowViewState.IdRef="WriteLine_1" Text="[str_sonuc]" />
+      <WriteLine DisplayName="Write Line" sap:VirtualizedContainerService.HintSize="416,113.6" sap2010:WorkflowViewState.IdRef="WriteLine_4" />
+    </Sequence>
+  </Sequence>
+</Activity>

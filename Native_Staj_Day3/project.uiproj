@@ -1,0 +1,6 @@
+{
+  "Name": "Native_Staj_Day3",
+  "ProjectType": "Process",
+  "Description": "Bu proje 3.gün dersinde öğrendiğim uygulamaları içermektedir",
+  "MainFile": "Main.xaml"
+}

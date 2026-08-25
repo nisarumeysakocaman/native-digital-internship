@@ -1,0 +1,6 @@
+{
+  "Name": "Native_Staj_REF_Tanitimi",
+  "ProjectType": "Process",
+  "Description": "Robotic Enterprise Framework tanıtımı ve uygulamalarını içermektedir.",
+  "MainFile": "Main.xaml"
+}

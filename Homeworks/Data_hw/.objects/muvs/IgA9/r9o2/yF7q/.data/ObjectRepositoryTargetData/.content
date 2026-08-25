@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="7Ue-ACiJiU-Rly1BoPWOhA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="translate.yandex.com/tr/translator/Ingilizce-Turkce" DesignTimeRectangle="494, 961, 314, 32" ElementType="Text" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl aaname='Türkçe  Rusça' parentid='popularTranslations' tag='A' /&gt;" Guid="f4f6fa73-b9f1-4ecb-8b33-bc4dcc86aa80" ScopeSelectorArgument="&lt;html app='chrome.exe' /&gt;" SearchSteps="Selector" Version="V6">
+      <imageRef attrName="InformativeScreenshot" originalValue="f72401fb992a641e1eabcd5a62305c8b.jpg" xmlns="">0qTc2nFoOcU2PpgP3GPUk_Q</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

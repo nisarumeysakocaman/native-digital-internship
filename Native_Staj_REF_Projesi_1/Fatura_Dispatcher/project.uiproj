@@ -1,0 +1,6 @@
+{
+  "Name": "Fatura_Dispatcher",
+  "ProjectType": "Process",
+  "Description": "Native_Staj_REF_Projesi_1'deki botun faturaları okuyup kuyruğa basma işlemini yapan kısmı.",
+  "MainFile": "Main.xaml"
+}

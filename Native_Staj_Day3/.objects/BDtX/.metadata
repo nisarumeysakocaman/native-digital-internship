@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Chrome hava durumu - Google'da Ara",
+  "Type": "App",
+  "Id": "BDtX0ZgELU6ZoqotZXnbuQ",
+  "Reference": "RXIRTDc2K02W7IsQmT0NzQ/BDtX0ZgELU6ZoqotZXnbuQ",
+  "Created": "2026-08-09T13:39:28.3635212Z",
+  "Updated": "2026-08-09T13:39:28.3635212Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.38.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.7.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

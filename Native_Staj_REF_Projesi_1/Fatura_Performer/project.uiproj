@@ -1,0 +1,6 @@
+{
+  "Name": "Fatura_Performer",
+  "ProjectType": "Process",
+  "Description": "REF ile fatura doğrulama botu projesi.",
+  "MainFile": "Main.xaml"
+}

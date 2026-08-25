@@ -1,0 +1,6 @@
+{
+  "Name": "Data_hw",
+  "ProjectType": "Process",
+  "Description": "Bu projede data aktivitelerini kullanarak bir ödev yapacağım.",
+  "MainFile": "Main.xaml"
+}

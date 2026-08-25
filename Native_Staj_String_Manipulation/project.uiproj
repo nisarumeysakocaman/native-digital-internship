@@ -1,0 +1,6 @@
+{
+  "Name": "Native_Staj_String_Manipulation",
+  "ProjectType": "Process",
+  "Description": "Bu projede string manipülasyonları,linq ile ilgili örnekler ve excel işlemleri ile ilgili uygulamalar bulunmaktadır.",
+  "MainFile": "Main.xaml"
+}

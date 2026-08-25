@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Chrome Google Çeviri",
+  "Type": "Screen",
+  "Id": "r9o2BkkmNUqozwuxqpDyKA",
+  "Reference": "vKvKuUAn3EqLuxMjXQeHKw/r9o2BkkmNUqozwuxqpDyKA",
+  "ParentRef": "vKvKuUAn3EqLuxMjXQeHKw/IgA9eL61-0W4Lbgo0Pg05g",
+  "Created": "2026-08-10T15:43:31.5003341Z",
+  "Updated": "2026-08-10T15:43:31.5003341Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.38.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.7.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

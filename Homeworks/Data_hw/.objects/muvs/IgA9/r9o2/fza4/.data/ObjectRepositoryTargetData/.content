@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="AAlq3VJOi0apahdb2Cex2w" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="translate.yandex.com/tr" DesignTimeRectangle="1187, 362, 115, 47" ElementType="Text" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl parentid='dstBox' tag='SPAN' /&gt;" Guid="999a7b74-9748-45fd-9bb1-9f64311f2d86" ScopeSelectorArgument="&lt;html app='chrome.exe' title='elma – Ingilizce - Türkçe, Rusça - Türkçe, Almanca - Türkçe ve diğer diller için sözlük ve çevrimiçi çeviri servisidir - Yandex Çeviri.' /&gt;" SearchSteps="Selector" Version="V6">
+      <imageRef attrName="InformativeScreenshot" originalValue="6bb61000edf1c7f9e74dea786d6c1ca1.jpg" xmlns="">0foIaRNqUzEmIRzeXF4T8og</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

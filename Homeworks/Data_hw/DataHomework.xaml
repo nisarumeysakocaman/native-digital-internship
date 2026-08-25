@@ -1,0 +1,407 @@
+<Activity mc:Ignorable="sap sap2010" x:Class="DataHomework" sap2010:WorkflowViewState.IdRef="ActivityBuilder_1" xmlns="http://schemas.microsoft.com/netfx/2009/xaml/activities" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:s="clr-namespace:System;assembly=System.Private.CoreLib" xmlns:sap="http://schemas.microsoft.com/netfx/2009/xaml/activities/presentation" xmlns:sap2010="http://schemas.microsoft.com/netfx/2010/xaml/activities/presentation" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:sco="clr-namespace:System.Collections.ObjectModel;assembly=System.Private.CoreLib" xmlns:sd="clr-namespace:System.Drawing;assembly=System.Drawing.Common" xmlns:sd1="clr-namespace:System.Drawing;assembly=System.Drawing.Primitives" xmlns:sd2="clr-namespace:System.Data;assembly=System.Data.Common" xmlns:ue="clr-namespace:UiPath.Excel;assembly=UiPath.Excel.Activities" xmlns:ueab="clr-namespace:UiPath.Excel.Activities.Business;assembly=UiPath.Excel.Activities" xmlns:ui="http://schemas.uipath.com/workflow/activities" xmlns:uix="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TextExpression.NamespacesForImplementation>
+    <sco:Collection x:TypeArguments="x:String">
+      <x:String>System.Activities</x:String>
+      <x:String>System.Activities.Statements</x:String>
+      <x:String>Microsoft.VisualBasic</x:String>
+      <x:String>System</x:String>
+      <x:String>System.Collections</x:String>
+      <x:String>System.Collections.Generic</x:String>
+      <x:String>System.Collections.ObjectModel</x:String>
+      <x:String>System.Data</x:String>
+      <x:String>System.IO</x:String>
+      <x:String>System.Linq</x:String>
+      <x:String>UiPath.Core</x:String>
+      <x:String>UiPath.Core.Activities</x:String>
+      <x:String>System.Runtime.Serialization</x:String>
+      <x:String>UiPath.Excel</x:String>
+      <x:String>UiPath.Excel.Activities.Business</x:String>
+      <x:String>System.Security</x:String>
+      <x:String>UiPath.Excel.Model</x:String>
+      <x:String>System.ComponentModel</x:String>
+      <x:String>System.Xml.Serialization</x:String>
+      <x:String>UiPath.Shared.Activities</x:String>
+      <x:String>UiPath.Excel.Activities</x:String>
+      <x:String>UiPath.Platform.ResourceHandling</x:String>
+      <x:String>System.Reflection</x:String>
+      <x:String>UiPath.UIAutomationNext.Enums</x:String>
+      <x:String>UiPath.UIAutomationCore.Contracts</x:String>
+      <x:String>UiPath.Platform.SyncObjects</x:String>
+      <x:String>UiPath.Shared.Activities.Business</x:String>
+      <x:String>UiPath.DataTableUtilities</x:String>
+      <x:String>System.Activities.Runtime.Collections</x:String>
+      <x:String>System.Activities.Expressions</x:String>
+      <x:String>System.Diagnostics</x:String>
+      <x:String>System.Drawing</x:String>
+      <x:String>System.Xml</x:String>
+      <x:String>System.Xml.Linq</x:String>
+      <x:String>System.Net.Mail</x:String>
+      <x:String>GlobalVariablesNamespace</x:String>
+      <x:String>GlobalConstantsNamespace</x:String>
+      <x:String>System.Linq.Expressions</x:String>
+      <x:String>UiPath.UIAutomationNext.Models</x:String>
+      <x:String>UiPath.UIAutomationNext.Activities</x:String>
+      <x:String>UiPath.Platform.ObjectLibrary</x:String>
+      <x:String>UiPath.UIAutomationNext.Contracts</x:String>
+      <x:String>UiPath.UIAutomationNext.Activities.Models</x:String>
+      <x:String>System.Text.RegularExpressions</x:String>
+      <x:String>System.Numerics</x:String>
+    </sco:Collection>
+  </TextExpression.NamespacesForImplementation>
+  <TextExpression.ReferencesForImplementation>
+    <sco:Collection x:TypeArguments="AssemblyReference">
+      <AssemblyReference>System.Activities</AssemblyReference>
+      <AssemblyReference>Microsoft.VisualBasic</AssemblyReference>
+      <AssemblyReference>System.Private.CoreLib</AssemblyReference>
+      <AssemblyReference>mscorlib</AssemblyReference>
+      <AssemblyReference>System.Data</AssemblyReference>
+      <AssemblyReference>System</AssemblyReference>
+      <AssemblyReference>System.Linq</AssemblyReference>
+      <AssemblyReference>System.Data.Common</AssemblyReference>
+      <AssemblyReference>System.Drawing</AssemblyReference>
+      <AssemblyReference>System.Drawing.Primitives</AssemblyReference>
+      <AssemblyReference>System.Drawing.Common</AssemblyReference>
+      <AssemblyReference>System.Core</AssemblyReference>
+      <AssemblyReference>System.Xml</AssemblyReference>
+      <AssemblyReference>System.Xml.Linq</AssemblyReference>
+      <AssemblyReference>PresentationFramework</AssemblyReference>
+      <AssemblyReference>WindowsBase</AssemblyReference>
+      <AssemblyReference>PresentationCore</AssemblyReference>
+      <AssemblyReference>System.Xaml</AssemblyReference>
+      <AssemblyReference>UiPath.System.Activities</AssemblyReference>
+      <AssemblyReference>UiPath.UiAutomation.Activities</AssemblyReference>
+      <AssemblyReference>System.Data.DataSetExtensions</AssemblyReference>
+      <AssemblyReference>System.Net.Mail</AssemblyReference>
+      <AssemblyReference>System.ObjectModel</AssemblyReference>
+      <AssemblyReference>System.ComponentModel.TypeConverter</AssemblyReference>
+      <AssemblyReference>UiPath.Studio.Constants</AssemblyReference>
+      <AssemblyReference>System.Private.ServiceModel</AssemblyReference>
+      <AssemblyReference>System.Private.DataContractSerialization</AssemblyReference>
+      <AssemblyReference>System.Runtime.Serialization.Formatters</AssemblyReference>
+      <AssemblyReference>System.Runtime.Serialization.Primitives</AssemblyReference>
+      <AssemblyReference>UiPath.Excel.Activities.Design</AssemblyReference>
+      <AssemblyReference>UiPath.Excel</AssemblyReference>
+      <AssemblyReference>UiPath.Excel.Activities</AssemblyReference>
+      <AssemblyReference>System.Security.Permissions</AssemblyReference>
+      <AssemblyReference>System.Runtime.InteropServices</AssemblyReference>
+      <AssemblyReference>System.ComponentModel.EventBasedAsync</AssemblyReference>
+      <AssemblyReference>System.ComponentModel</AssemblyReference>
+      <AssemblyReference>System.ComponentModel.Primitives</AssemblyReference>
+      <AssemblyReference>System.Private.Xml</AssemblyReference>
+      <AssemblyReference>UiPath.UIAutomationCore</AssemblyReference>
+      <AssemblyReference>UiPath.OCR.Activities</AssemblyReference>
+      <AssemblyReference>System.Console</AssemblyReference>
+      <AssemblyReference>System.Configuration.ConfigurationManager</AssemblyReference>
+      <AssemblyReference>System.Memory</AssemblyReference>
+      <AssemblyReference>System.Private.Uri</AssemblyReference>
+      <AssemblyReference>System.Linq.Expressions</AssemblyReference>
+      <AssemblyReference>UiPath.Platform</AssemblyReference>
+      <AssemblyReference>NPOI.Core</AssemblyReference>
+      <AssemblyReference>System.Collections</AssemblyReference>
+      <AssemblyReference>System.Linq.Async</AssemblyReference>
+      <AssemblyReference>System.Collections.NonGeneric</AssemblyReference>
+      <AssemblyReference>System.CodeDom</AssemblyReference>
+      <AssemblyReference>Microsoft.VisualBasic.Core</AssemblyReference>
+      <AssemblyReference>Microsoft.VisualBasic.Forms</AssemblyReference>
+      <AssemblyReference>System.Reflection.DispatchProxy</AssemblyReference>
+      <AssemblyReference>System.Reflection.TypeExtensions</AssemblyReference>
+      <AssemblyReference>System.Reflection.Metadata</AssemblyReference>
+      <AssemblyReference>System.Data.SqlClient</AssemblyReference>
+      <AssemblyReference>UiPath.UIAutomationNext</AssemblyReference>
+      <AssemblyReference>UiPath.UIAutomationNext.Activities</AssemblyReference>
+      <AssemblyReference>System.Runtime.Serialization</AssemblyReference>
+      <AssemblyReference>System.ServiceModel</AssemblyReference>
+      <AssemblyReference>System.ServiceModel.Activities</AssemblyReference>
+      <AssemblyReference>System.Text.RegularExpressions</AssemblyReference>
+      <AssemblyReference>System.Runtime.Numerics</AssemblyReference>
+    </sco:Collection>
+  </TextExpression.ReferencesForImplementation>
+  <Sequence sap:VirtualizedContainerService.HintSize="854,7628.8" sap2010:WorkflowViewState.IdRef="Sequence_1">
+    <sap:WorkflowViewStateService.ViewState>
+      <scg:Dictionary x:TypeArguments="x:String, x:Object">
+        <x:Boolean x:Key="IsExpanded">True</x:Boolean>
+      </scg:Dictionary>
+    </sap:WorkflowViewStateService.ViewState>
+    <Sequence DisplayName="Data Homework" sap:VirtualizedContainerService.HintSize="581.6,7605.6" sap2010:WorkflowViewState.IdRef="Sequence_32">
+      <Sequence.Variables>
+        <Variable x:TypeArguments="sd2:DataTable" Name="dt_languages" />
+        <Variable x:TypeArguments="x:String" Name="str_translate_url" />
+        <Variable x:TypeArguments="sd2:DataTable" Name="dt_filtered" />
+        <Variable x:TypeArguments="x:String" Name="str_turkce" />
+        <Variable x:TypeArguments="x:String" Name="str_russian" />
+        <Variable x:TypeArguments="x:String" Name="str_english" />
+      </Sequence.Variables>
+      <sap:WorkflowViewStateService.ViewState>
+        <scg:Dictionary x:TypeArguments="x:String, x:Object">
+          <x:Boolean x:Key="IsExpanded">True</x:Boolean>
+          <x:Boolean x:Key="IsPinned">False</x:Boolean>
+        </scg:Dictionary>
+      </sap:WorkflowViewStateService.ViewState>
+      <ui:BuildDataTable sap2010:Annotation.AnnotationText="Yapılacaklar:&#xA;-İngilizce ve Rusça başlıkları eklenecek.&#xA;-Türkçe ifadeler diğer başlık dillerine çevirilip oraya eklenecek&#xA;-Aynı olan veriler silinecek.&#xA;-Data Excel'e Linq ile sadece Apple olanlar yazdırılacak.&#xA;-Pivot yapılacak.&#xA;" DataTable="[dt_languages]" DisplayName="Build Data Table" sap:VirtualizedContainerService.HintSize="548,251.2" sap2010:WorkflowViewState.IdRef="BuildDataTable_3" TableInfo="&lt;NewDataSet&gt;&#xA;  &lt;xs:schema id=&quot;NewDataSet&quot; xmlns=&quot;&quot; xmlns:xs=&quot;http://www.w3.org/2001/XMLSchema&quot; xmlns:msdata=&quot;urn:schemas-microsoft-com:xml-msdata&quot;&gt;&#xA;    &lt;xs:element name=&quot;NewDataSet&quot; msdata:IsDataSet=&quot;true&quot; msdata:MainDataTable=&quot;TableName&quot; msdata:UseCurrentLocale=&quot;true&quot;&gt;&#xA;      &lt;xs:complexType&gt;&#xA;        &lt;xs:choice minOccurs=&quot;0&quot; maxOccurs=&quot;unbounded&quot;&gt;&#xA;          &lt;xs:element name=&quot;TableName&quot;&gt;&#xA;            &lt;xs:complexType&gt;&#xA;              &lt;xs:sequence&gt;&#xA;                &lt;xs:element name=&quot;Türkçe&quot; msdata:Caption=&quot;&quot; minOccurs=&quot;0&quot;&gt;&#xA;                  &lt;xs:simpleType&gt;&#xA;                    &lt;xs:restriction base=&quot;xs:string&quot;&gt;&#xA;                      &lt;xs:maxLength value=&quot;100&quot; /&gt;&#xA;                    &lt;/xs:restriction&gt;&#xA;                  &lt;/xs:simpleType&gt;&#xA;                &lt;/xs:element&gt;&#xA;              &lt;/xs:sequence&gt;&#xA;            &lt;/xs:complexType&gt;&#xA;          &lt;/xs:element&gt;&#xA;        &lt;/xs:choice&gt;&#xA;      &lt;/xs:complexType&gt;&#xA;    &lt;/xs:element&gt;&#xA;  &lt;/xs:schema&gt;&#xA;  &lt;TableName&gt;&#xA;    &lt;Türkçe&gt;Elma&lt;/Türkçe&gt;&#xA;  &lt;/TableName&gt;&#xA;  &lt;TableName&gt;&#xA;    &lt;Türkçe&gt;Armut&lt;/Türkçe&gt;&#xA;  &lt;/TableName&gt;&#xA;  &lt;TableName&gt;&#xA;    &lt;Türkçe&gt;Kapı&lt;/Türkçe&gt;&#xA;  &lt;/TableName&gt;&#xA;  &lt;TableName&gt;&#xA;    &lt;Türkçe&gt;Elma&lt;/Türkçe&gt;&#xA;  &lt;/TableName&gt;&#xA;  &lt;TableName&gt;&#xA;    &lt;Türkçe&gt;Ananas&lt;/Türkçe&gt;&#xA;  &lt;/TableName&gt;&#xA;&lt;/NewDataSet&gt;">
+        <sap:WorkflowViewStateService.ViewState>
+          <scg:Dictionary x:TypeArguments="x:String, x:Object">
+            <x:Boolean x:Key="IsAnnotationDocked">True</x:Boolean>
+          </scg:Dictionary>
+        </sap:WorkflowViewStateService.ViewState>
+      </ui:BuildDataTable>
+      <ui:LogMessage DisplayName="Log Message" sap:VirtualizedContainerService.HintSize="548,174.4" sap2010:WorkflowViewState.IdRef="LogMessage_1" Level="Info" Message="[&quot;Yeni sütunlar oluşturuluyor&quot;]" />
+      <ui:AddDataColumn x:TypeArguments="x:String" AllowDBNull="{x:Null}" AutoIncrement="{x:Null}" Column="{x:Null}" DefaultValue="{x:Null}" MaxLength="{x:Null}" Unique="{x:Null}" ColumnName="İngilizce" DataTable="[dt_languages]" DisplayName="Add Data Column" sap:VirtualizedContainerService.HintSize="548,220" sap2010:WorkflowViewState.IdRef="AddDataColumn`1_3" />
+      <ui:AddDataColumn x:TypeArguments="x:String" AllowDBNull="{x:Null}" AutoIncrement="{x:Null}" Column="{x:Null}" DefaultValue="{x:Null}" MaxLength="{x:Null}" Unique="{x:Null}" ColumnName="Rusça" DataTable="[dt_languages]" DisplayName="Add Data Column" sap:VirtualizedContainerService.HintSize="548,220" sap2010:WorkflowViewState.IdRef="AddDataColumn`1_4" />
+      <ui:LogMessage DisplayName="Log Message" sap:VirtualizedContainerService.HintSize="548,174.4" sap2010:WorkflowViewState.IdRef="LogMessage_2" Level="Info" Message="[&quot;Yeni sütunlar oluşturuldu&quot;]" />
+      <ui:LogMessage DisplayName="Log Message" sap:VirtualizedContainerService.HintSize="548,174.4" sap2010:WorkflowViewState.IdRef="LogMessage_3" Level="Info" Message="[&quot;Çeviri sayfasına giriliyor&quot;]" />
+      <Assign sap:VirtualizedContainerService.HintSize="548,174.4" sap2010:WorkflowViewState.IdRef="Assign_1">
+        <Assign.To>
+          <OutArgument x:TypeArguments="x:String">[str_translate_url]</OutArgument>
+        </Assign.To>
+        <Assign.Value>
+          <InArgument x:TypeArguments="x:String">["https://translate.yandex.com/tr/translator/*"]</InArgument>
+        </Assign.Value>
+      </Assign>
+      <uix:NApplicationCard AttachMode="ByInstance" CloseMode="[UiPath.UIAutomationNext.Enums.NAppCloseMode.Always]" DisplayName="Chrome Google Çeviri" HealingAgentBehavior="Job" sap:VirtualizedContainerService.HintSize="548,2516" sap2010:WorkflowViewState.IdRef="NApplicationCard_1" InteractionMode="DebuggerApi" OpenMode="[UiPath.UIAutomationNext.Enums.NAppOpenMode.Always]" ScopeGuid="59b8689a-7e4e-42e0-a1aa-cee7f619655a" Version="V2" WindowResize="Maximize">
+        <uix:NApplicationCard.Body>
+          <ActivityAction x:TypeArguments="x:Object">
+            <ActivityAction.Argument>
+              <DelegateInArgument x:TypeArguments="x:Object" Name="WSSessionData" />
+            </ActivityAction.Argument>
+            <Sequence DisplayName="Do" sap:VirtualizedContainerService.HintSize="546.4,2313.6" sap2010:WorkflowViewState.IdRef="Sequence_33">
+              <sap:WorkflowViewStateService.ViewState>
+                <scg:Dictionary x:TypeArguments="x:String, x:Object">
+                  <x:Boolean x:Key="IsExpanded">True</x:Boolean>
+                </scg:Dictionary>
+              </sap:WorkflowViewStateService.ViewState>
+              <ui:LogMessage DisplayName="Log Message" sap:VirtualizedContainerService.HintSize="512.8,174.4" sap2010:WorkflowViewState.IdRef="LogMessage_4" Level="Info" Message="[&quot;Tablo okunmaya başladı&quot;]" />
+              <ui:ForEachRow ColumnNames="{x:Null}" CurrentIndex="{x:Null}" DataTable="[dt_languages]" DisplayName="For Each Row in Data Table" sap:VirtualizedContainerService.HintSize="512.8,2079.2" sap2010:WorkflowViewState.IdRef="ForEachRow_1">
+                <ui:ForEachRow.Body>
+                  <ActivityAction x:TypeArguments="sd2:DataRow">
+                    <ActivityAction.Argument>
+                      <DelegateInArgument x:TypeArguments="sd2:DataRow" Name="CurrentRow" />
+                    </ActivityAction.Argument>
+                    <Sequence DisplayName="Body" sap:VirtualizedContainerService.HintSize="511.2,1906.4" sap2010:WorkflowViewState.IdRef="Sequence_34">
+                      <sap:WorkflowViewStateService.ViewState>
+                        <scg:Dictionary x:TypeArguments="x:String, x:Object">
+                          <x:Boolean x:Key="IsExpanded">True</x:Boolean>
+                        </scg:Dictionary>
+                      </sap:WorkflowViewStateService.ViewState>
+                      <Assign sap:VirtualizedContainerService.HintSize="477.6,174.4" sap2010:WorkflowViewState.IdRef="Assign_2">
+                        <Assign.To>
+                          <OutArgument x:TypeArguments="x:String">[str_turkce]</OutArgument>
+                        </Assign.To>
+                        <Assign.Value>
+                          <InArgument x:TypeArguments="x:String">[CurrentRow("Türkçe").ToString]</InArgument>
+                        </Assign.Value>
+                      </Assign>
+                      <uix:NClick ActivateBefore="True" ClickType="Single" DisplayName="Click 'Türkçe  İngilizce'" HealingAgentBehavior="SameAsCard" sap:VirtualizedContainerService.HintSize="477.6,265.6" sap2010:WorkflowViewState.IdRef="NClick_3" InteractionMode="Simulate" KeyModifiers="None" MouseButton="Left" ScopeIdentifier="59b8689a-7e4e-42e0-a1aa-cee7f619655a" Version="V5">
+                        <uix:NClick.Target>
+                          <uix:TargetAnchorable BrowserURL="translate.yandex.com/tr/translator/Ingilizce-Turkce" ContentHash="Rq9K8QmhuE26-Zhh_Ei8yg" DesignTimeRectangle="494, 1131, 314, 32" ElementType="Text" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl parentid='popularTranslations' tag='A' aaname='Türkçe  İngilizce' /&gt;" Guid="70842c8a-3974-49bf-a708-0bf3a96b8816" InformativeScreenshot="188002bfc30a3cffd4387288159bb00d.jpg" Reference="vKvKuUAn3EqLuxMjXQeHKw/lL8Hbmllvk2pUGvlmZ8plg" ScopeSelectorArgument="&lt;html app='chrome.exe' /&gt;" SearchSteps="Selector" Version="V6" />
+                        </uix:NClick.Target>
+                        <uix:NClick.VerifyOptions>
+                          <uix:VerifyExecutionOptions Mode="Appears">
+                            <uix:VerifyExecutionOptions.Retry>
+                              <InArgument x:TypeArguments="x:Boolean" />
+                            </uix:VerifyExecutionOptions.Retry>
+                            <uix:VerifyExecutionOptions.Target>
+                              <uix:TargetAnchorable BrowserURL="translate.yandex.com/tr/translator/Turkce-Ingilizce" ContentHash="M9AjzjXAG0mgT7R24tnRcg" DesignTimeRectangle="434, 215, 1435, 27" ElementType="Text" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl tag='H1' aaname='Türkçe-İngilizceçevrimiçi çeviri aracı ve sözlük' /&gt;" Guid="859c9a70-e28d-4325-9ebd-1e3ee158216f" InformativeScreenshot="c36825cf97a1bc5563cc5e7ad8c29dac.jpg" Reference="vKvKuUAn3EqLuxMjXQeHKw/JTliOEkW80GtYoJDB3BKeg" ScopeSelectorArgument="&lt;html app='chrome.exe' /&gt;" SearchSteps="Selector" Version="V6" />
+                            </uix:VerifyExecutionOptions.Target>
+                            <uix:VerifyExecutionOptions.Timeout>
+                              <InArgument x:TypeArguments="x:Double" />
+                            </uix:VerifyExecutionOptions.Timeout>
+                          </uix:VerifyExecutionOptions>
+                        </uix:NClick.VerifyOptions>
+                      </uix:NClick>
+                      <uix:NTypeInto ActivateBefore="True" ClickBeforeMode="Single" DisplayName="Type Into kelimeyi çevir" EmptyFieldMode="[UiPath.UIAutomationNext.Enums.NEmptyFieldMode.MultiLine]" HealingAgentBehavior="SameAsCard" sap:VirtualizedContainerService.HintSize="477.6,245.6" sap2010:WorkflowViewState.IdRef="NTypeInto_1" InteractionMode="DebuggerApi" ScopeIdentifier="59b8689a-7e4e-42e0-a1aa-cee7f619655a" Text="[str_turkce]" Version="V5">
+                        <uix:NTypeInto.Target>
+                          <uix:TargetAnchorable BrowserURL="translate.yandex.com/tr" ContentHash="S9uBZFo67Eefu93OjnXI3A" DesignTimeRectangle="434, 332, 713, 296" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl id='fakeArea' tag='DIV' /&gt;" Guid="ac391a74-733e-4323-a143-e3a4ab2e3604" InformativeScreenshot="edb5b17d66ec9543a48a862223dd4676.jpg" Reference="vKvKuUAn3EqLuxMjXQeHKw/Otl2D60wJ0y_NoTpzjSFQQ" ScopeSelectorArgument="&lt;html app='chrome.exe' /&gt;" SearchSteps="Selector" Version="V6" />
+                        </uix:NTypeInto.Target>
+                      </uix:NTypeInto>
+                      <uix:NGetText DisplayName="Get Text 'apple'" HealingAgentBehavior="SameAsCard" sap:VirtualizedContainerService.HintSize="477.6,142.4" sap2010:WorkflowViewState.IdRef="NGetText_3" ScopeIdentifier="59b8689a-7e4e-42e0-a1aa-cee7f619655a" TextString="[str_english]" Timeout="5" Version="V5">
+                        <uix:NGetText.Target>
+                          <uix:TargetAnchorable BrowserURL="translate.yandex.com/tr" CVScreenId="2179fbe4-7deb-46c8-b333-f77b915a86f3" ContentHash="vaoli2AyuE-_ESu3QMlIzA" DesignTimeRectangle="1187, 362, 105, 47" ElementType="Text" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl parentid='dstBox' tag='SPAN' /&gt;" Guid="c083fe66-e066-4951-8d3b-f334ebafe272" InformativeScreenshot="867d6c95a384906d0594dd96452455ed.jpg" Reference="vKvKuUAn3EqLuxMjXQeHKw/8nnqq1ZkfkqpEZCe6EHlEw" ScopeSelectorArgument="&lt;html app='chrome.exe' /&gt;" SearchSteps="Selector" Version="V6" />
+                        </uix:NGetText.Target>
+                      </uix:NGetText>
+                      <uix:NClick ActivateBefore="True" ClickType="Single" DisplayName="Click 'Rusça'" HealingAgentBehavior="SameAsCard" sap:VirtualizedContainerService.HintSize="477.6,265.6" sap2010:WorkflowViewState.IdRef="NClick_2" InteractionMode="Simulate" KeyModifiers="None" MouseButton="Left" ScopeIdentifier="59b8689a-7e4e-42e0-a1aa-cee7f619655a" Version="V5">
+                        <uix:NClick.Target>
+                          <uix:TargetAnchorable BrowserURL="translate.yandex.com/tr/translator/Ingilizce-Turkce" ContentHash="7Ue-ACiJiU-Rly1BoPWOhA" DesignTimeRectangle="494, 961, 314, 32" ElementType="Text" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl aaname='Türkçe  Rusça' parentid='popularTranslations' tag='A' /&gt;" Guid="f4f6fa73-b9f1-4ecb-8b33-bc4dcc86aa80" InformativeScreenshot="f72401fb992a641e1eabcd5a62305c8b.jpg" Reference="vKvKuUAn3EqLuxMjXQeHKw/yF7qbQgpcUeyaVuOzxFW6A" ScopeSelectorArgument="&lt;html app='chrome.exe' /&gt;" SearchSteps="Selector" Version="V6" />
+                        </uix:NClick.Target>
+                        <uix:NClick.VerifyOptions>
+                          <uix:VerifyExecutionOptions Mode="Appears">
+                            <uix:VerifyExecutionOptions.Retry>
+                              <InArgument x:TypeArguments="x:Boolean" />
+                            </uix:VerifyExecutionOptions.Retry>
+                            <uix:VerifyExecutionOptions.Target>
+                              <uix:TargetAnchorable BrowserURL="translate.yandex.com/tr" ContentHash="GxQXaHm5c0K9Gy4xwpyixg" DesignTimeRectangle="434, 215, 1435, 27" ElementType="Text" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl tag='H1' aaname='Türkçe-Rusçaçevrimiçi çeviri aracı ve sözlük' /&gt;" Guid="49360f10-0625-4246-be81-6b91d3c2922f" InformativeScreenshot="37af199a13d4ece5c5f3e34884054b48.jpg" Reference="vKvKuUAn3EqLuxMjXQeHKw/fCNG5S-0e0ioVqf6LXypLQ" ScopeSelectorArgument="&lt;html app='chrome.exe' /&gt;" SearchSteps="Selector" Version="V6" />
+                            </uix:VerifyExecutionOptions.Target>
+                            <uix:VerifyExecutionOptions.Timeout>
+                              <InArgument x:TypeArguments="x:Double" />
+                            </uix:VerifyExecutionOptions.Timeout>
+                          </uix:VerifyExecutionOptions>
+                        </uix:NClick.VerifyOptions>
+                      </uix:NClick>
+                      <uix:NTypeInto ActivateBefore="True" ClickBeforeMode="Single" DisplayName="Type Into kelimeyi çevir" EmptyFieldMode="[UiPath.UIAutomationNext.Enums.NEmptyFieldMode.MultiLine]" HealingAgentBehavior="SameAsCard" sap:VirtualizedContainerService.HintSize="477.6,245.6" sap2010:WorkflowViewState.IdRef="NTypeInto_2" InteractionMode="DebuggerApi" ScopeIdentifier="59b8689a-7e4e-42e0-a1aa-cee7f619655a" Text="[str_turkce]" Version="V5">
+                        <uix:NTypeInto.Target>
+                          <uix:TargetAnchorable BrowserURL="translate.yandex.com/tr" ContentHash="S9uBZFo67Eefu93OjnXI3A" DesignTimeRectangle="434, 332, 713, 296" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl id='fakeArea' tag='DIV' /&gt;" Guid="ac391a74-733e-4323-a143-e3a4ab2e3604" InformativeScreenshot="edb5b17d66ec9543a48a862223dd4676.jpg" Reference="vKvKuUAn3EqLuxMjXQeHKw/Otl2D60wJ0y_NoTpzjSFQQ" ScopeSelectorArgument="&lt;html app='chrome.exe' /&gt;" SearchSteps="Selector" Version="V6" />
+                        </uix:NTypeInto.Target>
+                      </uix:NTypeInto>
+                      <uix:NGetText DisplayName="Get Text rusça kelimeyi al" HealingAgentBehavior="SameAsCard" sap:VirtualizedContainerService.HintSize="477.6,142.4" sap2010:WorkflowViewState.IdRef="NGetText_2" ScopeIdentifier="59b8689a-7e4e-42e0-a1aa-cee7f619655a" TextString="[str_russian]" Timeout="5" Version="V5">
+                        <uix:NGetText.Target>
+                          <uix:TargetAnchorable BrowserURL="translate.yandex.com/tr" ContentHash="AAlq3VJOi0apahdb2Cex2w" DesignTimeRectangle="1187, 362, 115, 47" ElementType="Text" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl parentid='dstBox' tag='SPAN' /&gt;" Guid="999a7b74-9748-45fd-9bb1-9f64311f2d86" InformativeScreenshot="6bb61000edf1c7f9e74dea786d6c1ca1.jpg" Reference="vKvKuUAn3EqLuxMjXQeHKw/fza49IKzpUGzLCgf6CgEEw" ScopeSelectorArgument="&lt;html app='chrome.exe' title='elma – Ingilizce - Türkçe, Rusça - Türkçe, Almanca - Türkçe ve diğer diller için sözlük ve çevrimiçi çeviri servisidir - Yandex Çeviri.' /&gt;" SearchSteps="Selector" Version="V6" />
+                        </uix:NGetText.Target>
+                      </uix:NGetText>
+                      <ui:MultipleAssign DisplayName="Multiple Assign" sap:VirtualizedContainerService.HintSize="477.6,180" sap2010:WorkflowViewState.IdRef="MultipleAssign_2">
+                        <ui:MultipleAssign.AssignOperations>
+                          <scg:List x:TypeArguments="ui:AssignOperation" Capacity="4">
+                            <ui:AssignOperation sap2010:WorkflowViewState.IdRef="AssignOperation_4">
+                              <ui:AssignOperation.To>
+                                <OutArgument x:TypeArguments="x:Object">[CurrentRow("İngilizce")]</OutArgument>
+                              </ui:AssignOperation.To>
+                              <ui:AssignOperation.Value>
+                                <InArgument x:TypeArguments="x:String">[str_english]</InArgument>
+                              </ui:AssignOperation.Value>
+                            </ui:AssignOperation>
+                            <ui:AssignOperation sap2010:WorkflowViewState.IdRef="AssignOperation_5">
+                              <ui:AssignOperation.To>
+                                <OutArgument x:TypeArguments="x:Object">[CurrentRow("Rusça")]</OutArgument>
+                              </ui:AssignOperation.To>
+                              <ui:AssignOperation.Value>
+                                <InArgument x:TypeArguments="x:String">[str_russian]</InArgument>
+                              </ui:AssignOperation.Value>
+                            </ui:AssignOperation>
+                          </scg:List>
+                        </ui:MultipleAssign.AssignOperations>
+                      </ui:MultipleAssign>
+                      <uix:NClick ActivateBefore="True" ClickType="Single" DisplayName="Click menüye dön" HealingAgentBehavior="SameAsCard" sap:VirtualizedContainerService.HintSize="477.6,184.8" sap2010:WorkflowViewState.IdRef="NClick_4" InteractionMode="Simulate" KeyModifiers="None" MouseButton="Left" ScopeIdentifier="59b8689a-7e4e-42e0-a1aa-cee7f619655a" Version="V5">
+                        <uix:NClick.Target>
+                          <uix:TargetAnchorable BrowserURL="translate.yandex.com/tr" ContentHash="ghBtoGO1mk-NZjm6o0PQmQ" DesignTimeRectangle="179, 200, 65, 30" ElementType="Icon" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl idx='3' parentid='verticalMenu' tag='svg' /&gt;" Guid="96fa34a9-1607-49b4-b703-f53f139f2b1c" InformativeScreenshot="83e343395a9f77ec164af2e560146ef6.jpg" Reference="vKvKuUAn3EqLuxMjXQeHKw/DEvat5TemEe0pd_nrRSE2w" ScopeSelectorArgument="&lt;html app='chrome.exe' /&gt;" SearchSteps="Selector" Version="V6" />
+                        </uix:NClick.Target>
+                      </uix:NClick>
+                    </Sequence>
+                  </ActivityAction>
+                </ui:ForEachRow.Body>
+              </ui:ForEachRow>
+            </Sequence>
+          </ActivityAction>
+        </uix:NApplicationCard.Body>
+        <uix:NApplicationCard.OCREngine>
+          <ActivityFunc x:TypeArguments="sd:Image, scg:IEnumerable(scg:KeyValuePair(sd1:Rectangle, x:String))">
+            <ActivityFunc.Argument>
+              <DelegateInArgument x:TypeArguments="sd:Image" Name="Image" />
+            </ActivityFunc.Argument>
+          </ActivityFunc>
+        </uix:NApplicationCard.OCREngine>
+        <uix:NApplicationCard.TargetApp>
+          <uix:TargetApp Area="-9, -9, 1938, 1218" BrowserType="Chrome" ContentHash="i-i65xIzg0S2t3phGuZqyQ" IconBase64="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" InformativeScreenshot="0994abf0e38772a59f7929696526b631.jpg" Reference="vKvKuUAn3EqLuxMjXQeHKw/r9o2BkkmNUqozwuxqpDyKA" Selector="&lt;html app='chrome.exe' /&gt;" Url="[str_translate_url]" Version="V3">
+            <uix:TargetApp.Arguments>
+              <InArgument x:TypeArguments="x:String" />
+            </uix:TargetApp.Arguments>
+            <uix:TargetApp.WorkingDirectory>
+              <InArgument x:TypeArguments="x:String" />
+            </uix:TargetApp.WorkingDirectory>
+          </uix:TargetApp>
+        </uix:NApplicationCard.TargetApp>
+      </uix:NApplicationCard>
+      <ui:LogMessage DisplayName="Log Message" sap:VirtualizedContainerService.HintSize="548,174.4" sap2010:WorkflowViewState.IdRef="LogMessage_5" Level="Info" Message="[&quot;Veriler başarıyla çevrildi ve datatable'a aktarıldı&quot;]" />
+      <ui:LogMessage DisplayName="Log Message" sap:VirtualizedContainerService.HintSize="548,174.4" sap2010:WorkflowViewState.IdRef="LogMessage_6" Level="Info" Message="[&quot;Tabloda aynı olan satırlar siliniyor&quot;]" />
+      <ui:RemoveDuplicateRows DataTable="[dt_languages]" DisplayName="Remove Duplicate Rows" sap:VirtualizedContainerService.HintSize="548,112.8" sap2010:WorkflowViewState.IdRef="RemoveDuplicateRows_1" OutputDataTable="[dt_languages]" />
+      <ui:LogMessage DisplayName="Log Message" sap:VirtualizedContainerService.HintSize="548,174.4" sap2010:WorkflowViewState.IdRef="LogMessage_7" Level="Info" Message="[&quot;Aynı olan veriler silindi&quot;]" />
+      <ueab:ExcelProcessScopeX DisplayAlerts="{x:Null}" ExistingProcessAction="{x:Null}" FileConflictResolution="{x:Null}" LaunchMethod="{x:Null}" LaunchTimeout="{x:Null}" MacroSettings="{x:Null}" ProcessMode="{x:Null}" ShowExcelWindow="{x:Null}" DisplayName="Excel Process Scope" sap:VirtualizedContainerService.HintSize="548,2868" sap2010:WorkflowViewState.IdRef="ExcelProcessScopeX_1">
+        <ueab:ExcelProcessScopeX.Body>
+          <ActivityAction x:TypeArguments="ui:IExcelProcess">
+            <ActivityAction.Argument>
+              <DelegateInArgument x:TypeArguments="ui:IExcelProcess" Name="ExcelProcessScopeTag" />
+            </ActivityAction.Argument>
+            <Sequence DisplayName="Do" sap:VirtualizedContainerService.HintSize="520,2789.6" sap2010:WorkflowViewState.IdRef="Sequence_35">
+              <sap:WorkflowViewStateService.ViewState>
+                <scg:Dictionary x:TypeArguments="x:String, x:Object">
+                  <x:Boolean x:Key="IsExpanded">True</x:Boolean>
+                </scg:Dictionary>
+              </sap:WorkflowViewStateService.ViewState>
+              <ui:LogMessage DisplayName="Log Message" sap:VirtualizedContainerService.HintSize="486.4,174.4" sap2010:WorkflowViewState.IdRef="LogMessage_8" Level="Info" Message="[&quot;Apple satırları filtrelenip excel'e yazdırılacak&quot;]" />
+              <ui:LogMessage DisplayName="Log Message" sap:VirtualizedContainerService.HintSize="486.4,174.4" sap2010:WorkflowViewState.IdRef="LogMessage_13" Level="Info" Message="[&quot;Tablodaki Toplam Satır Sayısı: &quot; &amp; dt_languages.Rows.Count.ToString()]" />
+              <ui:LogMessage DisplayName="Log Message" sap:VirtualizedContainerService.HintSize="486.4,174.4" sap2010:WorkflowViewState.IdRef="LogMessage_14" Level="Info" Message="[&quot;1. Sütun Adı: &quot; &amp; dt_languages.Columns(0).ColumnName &amp; &quot; - 2. Sütun Adı: &quot; &amp; dt_languages.Columns(1).ColumnName]" />
+              <TryCatch DisplayName="Try Catch" sap:VirtualizedContainerService.HintSize="486.4,681.6" sap2010:WorkflowViewState.IdRef="TryCatch_1">
+                <TryCatch.Try>
+                  <Sequence DisplayName="Try" sap:VirtualizedContainerService.HintSize="449.6,225.6" sap2010:WorkflowViewState.IdRef="Sequence_38">
+                    <sap:WorkflowViewStateService.ViewState>
+                      <scg:Dictionary x:TypeArguments="x:String, x:Object">
+                        <x:Boolean x:Key="IsExpanded">True</x:Boolean>
+                      </scg:Dictionary>
+                    </sap:WorkflowViewStateService.ViewState>
+                    <Assign DisplayName="Assign Linq" sap:VirtualizedContainerService.HintSize="416,165.6" sap2010:WorkflowViewState.IdRef="Assign_3">
+                      <Assign.To>
+                        <OutArgument x:TypeArguments="sd2:DataTable">[dt_filtered]</OutArgument>
+                      </Assign.To>
+                      <Assign.Value>
+                        <InArgument x:TypeArguments="sd2:DataTable">[(From row In dt_languages.AsEnumerable() Where System.Text.RegularExpressions.Regex.Replace(row("İngilizce").ToString(), "\s+", "").ToLower().Contains("apple") Select row).CopyToDataTable()]</InArgument>
+                      </Assign.Value>
+                    </Assign>
+                  </Sequence>
+                </TryCatch.Try>
+                <TryCatch.Catches>
+                  <Catch x:TypeArguments="s:Exception" sap2010:WorkflowViewState.IdRef="Catch`1_1">
+                    <ActivityAction x:TypeArguments="s:Exception">
+                      <ActivityAction.Argument>
+                        <DelegateInArgument x:TypeArguments="s:Exception" Name="exception" />
+                      </ActivityAction.Argument>
+                      <Sequence DisplayName="Catch" sap:VirtualizedContainerService.HintSize="449.6,225.6" sap2010:WorkflowViewState.IdRef="Sequence_39">
+                        <sap:WorkflowViewStateService.ViewState>
+                          <scg:Dictionary x:TypeArguments="x:String, x:Object">
+                            <x:Boolean x:Key="IsExpanded">True</x:Boolean>
+                          </scg:Dictionary>
+                        </sap:WorkflowViewStateService.ViewState>
+                        <ui:LogMessage DisplayName="Log Message" sap:VirtualizedContainerService.HintSize="416,165.6" sap2010:WorkflowViewState.IdRef="LogMessage_11" Level="Info" Message="[&quot;Veri bulunamadığı için filtreleme yapılamadı&quot;]" />
+                      </Sequence>
+                    </ActivityAction>
+                  </Catch>
+                </TryCatch.Catches>
+                <TryCatch.Finally>
+                  <Sequence DisplayName="Finally" sap:VirtualizedContainerService.HintSize="449.6,89.6" sap2010:WorkflowViewState.IdRef="Sequence_40">
+                    <sap:WorkflowViewStateService.ViewState>
+                      <scg:Dictionary x:TypeArguments="x:String, x:Object">
+                        <x:Boolean x:Key="IsExpanded">True</x:Boolean>
+                      </scg:Dictionary>
+                    </sap:WorkflowViewStateService.ViewState>
+                  </Sequence>
+                </TryCatch.Finally>
+              </TryCatch>
+              <ueab:ExcelApplicationCard DisplayName="Use Excel File" sap:VirtualizedContainerService.HintSize="486.4,1524.8" sap2010:WorkflowViewState.IdRef="ExcelApplicationCard_1" ResizeWindow="None" WorkbookPath="C:\Users\nisar\Desktop\native-internship-folder\Data_hw\filtered_apple.xlsx">
+                <ueab:ExcelApplicationCard.Body>
+                  <ActivityAction x:TypeArguments="ue:IWorkbookQuickHandle">
+                    <ActivityAction.Argument>
+                      <DelegateInArgument x:TypeArguments="ue:IWorkbookQuickHandle" Name="Excel" />
+                    </ActivityAction.Argument>
+                    <Sequence DisplayName="Do" sap:VirtualizedContainerService.HintSize="484.8,1305.6" sap2010:WorkflowViewState.IdRef="Sequence_36">
+                      <sap:WorkflowViewStateService.ViewState>
+                        <scg:Dictionary x:TypeArguments="x:String, x:Object">
+                          <x:Boolean x:Key="IsExpanded">True</x:Boolean>
+                        </scg:Dictionary>
+                      </sap:WorkflowViewStateService.ViewState>
+                      <ueab:WriteRangeX Destination="[Excel.Sheet(&quot;Sheet1&quot;)]" DisplayName="Write DataTable to Excel" sap:VirtualizedContainerService.HintSize="451.2,220.8" sap2010:WorkflowViewState.IdRef="WriteRangeX_1" IgnoreEmptySource="False" Source="[dt_filtered]" />
+                      <ui:LogMessage DisplayName="Log Message" sap:VirtualizedContainerService.HintSize="451.2,174.4" sap2010:WorkflowViewState.IdRef="LogMessage_9" Level="Info" Message="[&quot;Satırlar Excel'e yazdırıldı&quot;]" />
+                      <ui:LogMessage DisplayName="Log Message" sap:VirtualizedContainerService.HintSize="451.2,174.4" sap2010:WorkflowViewState.IdRef="LogMessage_10" Level="Info" Message="[&quot;Pivot Tablosu oluşturuluyor&quot;]" />
+                      <ueab:CreatePivotTableXv2 DestinationRange="[Excel.Sheet(&quot;Pivot_Table&quot;)]" DisplayName="Create Pivot Table" sap:VirtualizedContainerService.HintSize="451.2,676" sap2010:WorkflowViewState.IdRef="CreatePivotTableXv2_1" LayoutRowType="Compact" Range="[Excel.Sheet(&quot;Sheet1&quot;)]" TableName="Pivot_Apple" ValuesMode="Columns">
+                        <ueab:CreatePivotTableXv2.Body>
+                          <ActivityAction>
+                            <Sequence DisplayName="Do" sap:VirtualizedContainerService.HintSize="449.6,418.4" sap2010:WorkflowViewState.IdRef="Sequence_37">
+                              <sap:WorkflowViewStateService.ViewState>
+                                <scg:Dictionary x:TypeArguments="x:String, x:Object">
+                                  <x:Boolean x:Key="IsExpanded">True</x:Boolean>
+                                </scg:Dictionary>
+                              </sap:WorkflowViewStateService.ViewState>
+                              <ueab:PivotTableFieldX DisplayName="Pivot Field" FieldName="Türkçe" Function="Count" sap:VirtualizedContainerService.HintSize="416,122.4" sap2010:WorkflowViewState.IdRef="PivotTableFieldX_1" Type="Row" />
+                              <ueab:PivotTableFieldX DisplayName="Pivot Field" FieldName="İngilizce" Function="Sum" sap:VirtualizedContainerService.HintSize="416,122.4" sap2010:WorkflowViewState.IdRef="PivotTableFieldX_2" Type="Column" />
+                              <ueab:PivotTableFieldX DisplayName="Pivot Field" FieldName="İngilizce" Function="Count" sap:VirtualizedContainerService.HintSize="416,113.6" sap2010:WorkflowViewState.IdRef="PivotTableFieldX_3" Type="Value" />
+                            </Sequence>
+                          </ActivityAction>
+                        </ueab:CreatePivotTableXv2.Body>
+                      </ueab:CreatePivotTableXv2>
+                    </Sequence>
+                  </ActivityAction>
+                </ueab:ExcelApplicationCard.Body>
+              </ueab:ExcelApplicationCard>
+            </Sequence>
+          </ActivityAction>
+        </ueab:ExcelProcessScopeX.Body>
+      </ueab:ExcelProcessScopeX>
+      <WriteLine DisplayName="Write Line" sap:VirtualizedContainerService.HintSize="548,113.6" sap2010:WorkflowViewState.IdRef="WriteLine_1" />
+    </Sequence>
+  </Sequence>
+</Activity>

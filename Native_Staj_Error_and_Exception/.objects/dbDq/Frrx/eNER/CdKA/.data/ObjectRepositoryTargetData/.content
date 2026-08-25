@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="Fm0ILINtREyujEu2xWn4jA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="practicetestautomation.com/practice-test-login" DesignTimeRectangle="974, 682, 70, 24" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl tag='B' aaname='student' /&gt;" Guid="c0df0b73-621b-4d38-9d7a-5a0af265ebe4" ScopeSelectorArgument="&lt;html app='chrome.exe' /&gt;" SearchSteps="Selector" Version="V6">
+      <imageRef attrName="InformativeScreenshot" originalValue="65fa3e70da6c9975e56b2606966aeffe.jpg" xmlns="">0rDuQPhm4BU-sBY9FhQB9CQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

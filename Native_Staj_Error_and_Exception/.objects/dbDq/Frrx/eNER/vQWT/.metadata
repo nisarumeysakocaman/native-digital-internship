@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Password123",
+  "Type": "Element",
+  "Id": "vQWTCataZ0a1Z_IbUnwHww",
+  "Reference": "QO04UowUb0OI9f_PdZNTfw/vQWTCataZ0a1Z_IbUnwHww",
+  "ParentRef": "QO04UowUb0OI9f_PdZNTfw/eNERBORdckaopoB4T96RTA",
+  "Created": "2026-08-19T11:24:28.6770591Z",
+  "Updated": "2026-08-19T11:24:28.6770591Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.39.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.7.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,14 @@
+﻿{
+  "Name": "apple",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "8nnqq1ZkfkqpEZCe6EHlEw",
+  "Reference": "vKvKuUAn3EqLuxMjXQeHKw/8nnqq1ZkfkqpEZCe6EHlEw",
+  "ParentRef": "vKvKuUAn3EqLuxMjXQeHKw/r9o2BkkmNUqozwuxqpDyKA",
+  "Created": "2026-08-10T17:59:45.1446743Z",
+  "Updated": "2026-08-10T17:59:45.1446743Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.38.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.7.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="vQHzgt91s0e2OD0pyBDwfA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="translate.google.com.tr" DesignTimeRectangle="274, 346, 56, 18" ElementType="Text" ElementVisibilityArgument="Interactive" FuzzySelectorArgument="&lt;webctrl aaname='Türkçe' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' parentid='i15' matching:parentid='fuzzy' fuzzylevel:parentid='0.0' tag='SPAN' class='VfPpkd-jY41G-V67aGc' matching:class='fuzzy' fuzzylevel:class='0.0' check:innerText='Türkçe' /&gt;" Guid="e917f7ed-80a6-4f14-8cbd-e4e2e7795cfd" ScopeSelectorArgument="&lt;html app='chrome.exe' /&gt;" SearchSteps="FuzzySelector" Version="V6">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="264, 325, 76, 60" ElementType="Button" FuzzySelectorArgument="&lt;webctrl id='i15' matching:id='fuzzy' fuzzylevel:id='0.0' tag='BUTTON' class='VfPpkd-AznF2e VfPpkd-AznF2e-OWXEXe-auswjd VfPpkd-AznF2e-OWXEXe-jJNx8e-QBLLGd JJYS0b V0XHEd Ose4Jf LxQvde' matching:class='fuzzy' fuzzylevel:class='0.0' aaname='Türkçe' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='Türkçe' /&gt;" Guid="405d4526-3e80-47d0-8ba7-023cb8d7f583" SearchSteps="FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="8d2e96b51b61ea69b3952769688327e3.jpg" xmlns="">082HeKn6QoUS9RjHI0AoWVA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">CheckState</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

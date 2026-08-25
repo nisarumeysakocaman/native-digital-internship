@@ -1,0 +1,14 @@
+﻿{
+  "Name": "RPA Challenge",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "f5T04UOSB0KQb848yGnnrA",
+  "Reference": "NONNhJAOS0Cy9eiP9fQLqg/f5T04UOSB0KQb848yGnnrA",
+  "ParentRef": "NONNhJAOS0Cy9eiP9fQLqg/NkbjNp1o90SZ4hn5VYgSSw",
+  "Created": "2026-08-25T16:18:55.8732367Z",
+  "Updated": "2026-08-25T16:18:55.8732367Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.10.3.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.7.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

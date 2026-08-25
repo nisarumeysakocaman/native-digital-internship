@@ -1,0 +1,13 @@
+﻿{
+  "Name": "яблокояблокоAlternatifl…",
+  "Type": "Element",
+  "Id": "fza49IKzpUGzLCgf6CgEEw",
+  "Reference": "vKvKuUAn3EqLuxMjXQeHKw/fza49IKzpUGzLCgf6CgEEw",
+  "ParentRef": "vKvKuUAn3EqLuxMjXQeHKw/r9o2BkkmNUqozwuxqpDyKA",
+  "Created": "2026-08-10T16:05:59.4157553Z",
+  "Updated": "2026-08-10T16:05:59.4157553Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.38.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.7.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

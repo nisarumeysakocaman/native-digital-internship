@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="GfLek7DUTEuRmcUyvQTQiA" Reference="bwECCY7QBE2UaRCpuqjm2A/g060h692oECaYIQVD9jXew" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="translate.google.com.tr" DesignTimeRectangle="985, 401, 92, 38" ElementType="Text" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl class='ryNqvb' tag='SPAN' /&gt;" Guid="e9172ad2-7f79-47b8-89d0-a8f2c6ce01f3" ScopeSelectorArgument="&lt;html app='chrome.exe' /&gt;" SearchSteps="Selector" Version="V6">
+      <imageRef attrName="InformativeScreenshot" originalValue="815a924ac01d7c289f7487afc8a75e65.jpg" xmlns="">0tPSAzJ8iEU2MCAKPltswbg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

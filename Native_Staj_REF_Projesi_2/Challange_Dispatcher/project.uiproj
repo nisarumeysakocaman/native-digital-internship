@@ -1,0 +1,6 @@
+{
+  "Name": "Challange_Dispatcher",
+  "ProjectType": "Process",
+  "Description": "Dinamik Form Kayıt Botu. Excel dosyasındaki müşteri verilerini alarak kuyruğa ekleyecek. ",
+  "MainFile": "Main.xaml"
+}

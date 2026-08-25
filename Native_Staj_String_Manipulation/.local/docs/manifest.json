@@ -1,0 +1,5 @@
+{
+  "UiPath.DocumentProcessing.Contracts": "2.2.0",
+  "UiPath.PDF.Activities": "4.3.0",
+  "UiPath.System.Activities": "26.6.2"
+}

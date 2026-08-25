@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Türkçe",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "ROrKuNvmokKNzGsEFUVmhg",
+  "Reference": "bwECCY7QBE2UaRCpuqjm2A/ROrKuNvmokKNzGsEFUVmhg",
+  "ParentRef": "bwECCY7QBE2UaRCpuqjm2A/_VQZVDOx7EuX1DgY8P5tuw",
+  "Created": "2026-08-17T11:36:22.2097096Z",
+  "Updated": "2026-08-17T11:36:22.2097096Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.39.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.7.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
