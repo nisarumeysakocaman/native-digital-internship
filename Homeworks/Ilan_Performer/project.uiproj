@@ -1,0 +1,6 @@
+{
+  "Name": "Ilan_Performer",
+  "ProjectType": "Process",
+  "Description": "Bir siteden verilen excel değerlerine göre veri çekme.",
+  "MainFile": "Main.xaml"
+}

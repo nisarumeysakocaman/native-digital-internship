@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-16"?>
-<ObjectRepositoryTargetData ContentHash="46_oKAGsaky148BDoAcVgQ" Reference="vg5ZcLdjNEC53Cw5BOI59w/lFDeH8O_u0WA7iZ86Im8YQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
-  <ObjectRepositoryTargetData.Data>
-    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="sahibinden.com/kategori/emlak-konut" DesignTimeRectangle="627, 411, 181, 39" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl parentid='searchForm' tag='DIV' css-selector='body&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;form&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div' /&gt;" Guid="681c227c-7ac2-4990-a118-e5f1370188ee" ScopeSelectorArgument="&lt;html app='chrome.exe' url='https://www.sahibinden.com/kategori/emlak-konut' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive">
-      <imageRef attrName="InformativeScreenshot" originalValue="b00cf11090cb552560864ec1ef94f889.jpg" xmlns="">0wZPvZNPIDUyf6H78UIuhAA</imageRef>
-    </TargetAnchorable>
-    <x:String x:Key="ActivityType">SelectItem</x:String>
-  </ObjectRepositoryTargetData.Data>
-</ObjectRepositoryTargetData>

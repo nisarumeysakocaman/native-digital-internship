@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryScreenData ContentHash="ULgLv-EejUqyMkfxbj7DTg" Reference="vg5ZcLdjNEC53Cw5BOI59w/c1kZHDmTVECCIvp_kXDvVA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:p="http://schemas.microsoft.com/netfx/2009/xaml/activities" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryScreenData.Data>
+    <TargetApp x:Key="TargetApp" Area="-9, -9, 1938, 1218" BrowserType="Chrome" ContentHash="Gq1YZkChdEW55Fj6zRsnxw" IconBase64="iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAFUSURBVDhPrZLPK4NxHMffD9uyZzcOFI3iso0/YVm0cpI4UDhYrZX8HS7SDmpOlIvi4uAkrlxoGoWsaUor+/VIK/aDt7770pM9sz3i8KqnV5/P6/n27Qs+gX8BteK3/H+gnAXXw+CYH/S4waFBcGoC3N81LhsDGhiYBwGwpxsMBcC5GdDhkG5tpUngJQ1aLHL4YE/34u8D/eCwt1ngEbTZZGDUB54cgeWccenHgCASBu1tMiJQVdDnBVeXwecHEwFBLglub4JLIdDt0mMeF/iabhAopMDbKHh3IS/0y+9s6ZHjwwaBq1M5ZLWCiZjurz+94OasQUAwOy0HO9rB4AK4GAS7OqWbHP8+WzdQyYMbEfmQ+pwt7HUq9I/Iyy1lTQTeNVC7tzARUxk/VxmPqkxe2llItRqW6wYqObCYVljKKNVv8Q6KGaXq3vImAuIEgnqu1gs+AEFVlaRXeHt2AAAAAElFTkSuQmCC" Reference="vg5ZcLdjNEC53Cw5BOI59w/c1kZHDmTVECCIvp_kXDvVA" Selector="&lt;html app='chrome.exe' title='Dazkırı Kiralık Daire Fiyatları ve Kiralık Ev İlanları - sahibinden.com' /&gt;" Url="https://www.sahibinden.com/kiralik-daire/afyonkarahisar-dazkiri?price_min=45&amp;price_max=353452" Version="V3">
+      <TargetApp.Arguments>
+        <p:InArgument x:TypeArguments="x:String" />
+      </TargetApp.Arguments>
+      <TargetApp.WorkingDirectory>
+        <p:InArgument x:TypeArguments="x:String" />
+      </TargetApp.WorkingDirectory>
+      <imageRef attrName="InformativeScreenshot" originalValue="8d9737219576c65ac17c27e33cb6bd41.jpg" xmlns="">0YT_Hq7mJXESv0Kls3pnl0Q</imageRef>
+    </TargetApp>
+  </ObjectRepositoryScreenData.Data>
+</ObjectRepositoryScreenData>

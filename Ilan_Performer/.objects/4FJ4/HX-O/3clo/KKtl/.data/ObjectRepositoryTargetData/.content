@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-16"?>
-<ObjectRepositoryTargetData ContentHash="iXhs8b7AyEG8iPNOdDn5KQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
-  <ObjectRepositoryTargetData.Data>
-    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="sahibinden.com/kategori/emlak-konut" DesignTimeRectangle="1209, 411, 182, 39" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl css-selector='body&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;form&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div' idx='4' parentid='searchForm' tag='DIV' /&gt;" Guid="164312a7-ef4a-48d3-b888-1d9f6f89e763" ScopeSelectorArgument="&lt;html app='chrome.exe' url='https://www.sahibinden.com/kategori/emlak-konut' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive">
-      <imageRef attrName="InformativeScreenshot" originalValue="f3b9064f855db0d0a9c745ba85e5f142.jpg" xmlns="">02yk7gKt7KU6DRzhMDbfvWw</imageRef>
-    </TargetAnchorable>
-    <x:String x:Key="ActivityType">SelectItem</x:String>
-  </ObjectRepositoryTargetData.Data>
-</ObjectRepositoryTargetData>
