@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="eTva3Kshkkm8YAkLgImIdw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="skyscanner.com.tr/tasima/ucak-bileti/ayt/esb/260907" DesignTimeRectangle="477, 588, 279, 24" ElementType="Text" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl parentid='resultsContainer' tag='SPAN' aaname='En İyiye göre sıralanan * sonuç' /&gt;" Guid="69f9f16f-f948-47f6-88eb-3d7b92bd66b7" ScopeSelectorArgument="&lt;html app='chrome.exe' url='https://www.skyscanner.com.tr/tasima/ucak-bileti/ayt/esb/260907/?adultsv2=1&amp;amp;cabinclass=economy&amp;amp;childrenv2=&amp;amp;ref=home&amp;amp;rtn=0&amp;amp;preferdirects=false&amp;amp;outboundaltsenabled=false&amp;amp;inboundaltsenabled=false' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="bd2e3cd7eaa6177ae74be9a233ceb3d1.jpg" xmlns="">0NwTmlLWklk2lo1sUj7H8HQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">CheckState</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

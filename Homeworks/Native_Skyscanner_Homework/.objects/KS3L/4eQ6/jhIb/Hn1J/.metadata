@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Click 'svg'",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "Hn1J0pSsEUS0J_RTSYg22A",
+  "Reference": "yggEhWfhw0eG-7E0hNuquw/Hn1J0pSsEUS0J_RTSYg22A",
+  "ParentRef": "yggEhWfhw0eG-7E0hNuquw/jhIbzcD0zUGAsrQ5fD1Qbg",
+  "Created": "2026-09-02T19:55:24.1360033Z",
+  "Updated": "2026-09-02T19:55:24.1360033Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.10.3.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.7.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

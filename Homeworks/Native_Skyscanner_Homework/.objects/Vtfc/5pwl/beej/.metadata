@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Chrome REFramework ile Skyscanner Bot Süreci ",
+  "Type": "Screen",
+  "Id": "beejD_oHzU-uRbCEzLUIaw",
+  "Reference": "yggEhWfhw0eG-7E0hNuquw/beejD_oHzU-uRbCEzLUIaw",
+  "ParentRef": "yggEhWfhw0eG-7E0hNuquw/5pwlu4LDUkK-MtA7jp4aXA",
+  "Created": "2026-09-02T12:17:03.1311263Z",
+  "Updated": "2026-09-02T12:17:03.1311263Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.10.3.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.7.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

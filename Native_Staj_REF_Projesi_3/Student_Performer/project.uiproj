@@ -1,0 +1,6 @@
+{
+  "Name": "Student_Performer",
+  "ProjectType": "Process",
+  "Description": "Kuyruktaki öğrenci bilgilerini alıp öğrencilere sınavı geçip kalma durumları hakkında mail gönderecek süreç.",
+  "MainFile": "Main.xaml"
+}

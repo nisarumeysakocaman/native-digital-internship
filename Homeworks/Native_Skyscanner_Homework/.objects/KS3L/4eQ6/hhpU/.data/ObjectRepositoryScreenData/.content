@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryScreenData ContentHash="MMe-HnUif06vqFc1ssf7gw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryScreenData.Data>
+    <TargetApp x:Key="TargetApp" Area="0, 0, 0, 0" Selector="&lt;html app='chrome.exe' url='https://www.skyscanner.com.tr/tasima/kalkis-yeri/ista/261005/?adultsv2=1&amp;amp;cabinclass=economy&amp;amp;childrenv2=&amp;amp;ref=home&amp;amp;rtn=0&amp;amp;outboundaltsenabled=false&amp;amp;inboundaltsenabled=false' /&gt;" Url="skyscanner.com.tr/tasima/kalkis-yeri/ista/261005" />
+  </ObjectRepositoryScreenData.Data>
+</ObjectRepositoryScreenData>

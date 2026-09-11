@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="_4ynDamZ-UWmZBw_7qT0ug" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="skyscanner.com.tr" DesignTimeRectangle="195, 361, 1530, 50" ElementType="Text" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl tag='H2' aaname='Milyonlarca ucuz uçak bileti bir arama uzağınızda.' /&gt;" Guid="7408a07f-b281-4cb8-8e2a-788f9fbec51a" ScopeSelectorArgument="&lt;html app='chrome.exe' url='https://www.skyscanner.com.tr/' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="afaa26fc453b1e907d9a5fedd61b2489.jpg" xmlns="">0OppuEz_EYEOSWnJdjCFvjw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

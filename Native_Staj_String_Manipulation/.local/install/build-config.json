@@ -1,6 +1,6 @@
 {
   "Version": "1.0",
   "IncludeWorkflows": [
-    "hw_redex.xaml"
+    "Read_Pdf_and_Regex.xaml"
   ]
 }

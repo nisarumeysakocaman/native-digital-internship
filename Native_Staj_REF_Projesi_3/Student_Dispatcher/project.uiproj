@@ -1,0 +1,6 @@
+{
+  "Name": "Student_Dispatcher",
+  "ProjectType": "Process",
+  "Description": "Öğrencilerin not ve devamsızlık bilgilerini kuyruğa atan süreç.",
+  "MainFile": "Main.xaml"
+}

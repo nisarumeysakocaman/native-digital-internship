@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="nyGg6wC1sU6EywW5rEX1jw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="skyscanner.com.tr" DesignTimeRectangle="1443, 1006, 101, 60" ElementType="Button" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl aaname='Uygula' tag='BUTTON' visibleinnertext='Uygula' /&gt;" Guid="92f0689b-de6c-4484-b1f0-9a44d6652d9d" ScopeSelectorArgument="&lt;html app='chrome.exe' url='https://www.skyscanner.com.tr/' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="0a544d5a3b7156f11a0c6ee0718edc07.jpg" xmlns="">0bImaXlXSeEeq6F2OYVUeYA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

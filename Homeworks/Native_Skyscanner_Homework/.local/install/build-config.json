@@ -1,0 +1,22 @@
+{
+  "Version": "1.0",
+  "IncludeWorkflows": [
+    "Main.xaml",
+    "Framework/GetTransactionData.xaml",
+    "Process/Navigate_To_Filter_Page.xaml",
+    "Process/Excel_WriteFlightData.xaml",
+    "Framework/Process.xaml",
+    "Framework/SetTransactionStatus.xaml",
+    "End/Mail_SendFinalReport.xaml",
+    "Framework/CloseAllApplications.xaml",
+    "Framework/KillAllProcesses.xaml",
+    "Framework/InitAllSettings.xaml",
+    "Init/Queue_Cleaning.xaml",
+    "Init/Read_Excel.xaml",
+    "Init/Queue_Loading.xaml",
+    "Init/Open_Browser.xaml",
+    "Framework/InitAllApplications.xaml",
+    "Framework/TakeScreenshot.xaml",
+    "Framework/RetryCurrentTransaction.xaml"
+  ]
+}

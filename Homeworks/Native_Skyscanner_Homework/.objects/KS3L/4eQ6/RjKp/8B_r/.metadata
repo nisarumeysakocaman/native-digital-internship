@@ -1,0 +1,14 @@
+﻿{
+  "Name": "1. çocuğun yaşı",
+  "Type": "Element",
+  "TaxonomyType": "Dropdown",
+  "Id": "8B_rrxNCZECVl3LTWiOm0w",
+  "Reference": "yggEhWfhw0eG-7E0hNuquw/8B_rrxNCZECVl3LTWiOm0w",
+  "ParentRef": "yggEhWfhw0eG-7E0hNuquw/RjKpzaWgbkycm-V7l3Zb3A",
+  "Created": "2026-09-02T18:32:58.6307153Z",
+  "Updated": "2026-09-02T18:32:58.6307153Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.10.3.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.7.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

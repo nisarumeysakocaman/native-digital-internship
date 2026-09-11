@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Duraklar",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "o829nCnF3kip30MZZ8FwKQ",
+  "Reference": "yggEhWfhw0eG-7E0hNuquw/o829nCnF3kip30MZZ8FwKQ",
+  "ParentRef": "yggEhWfhw0eG-7E0hNuquw/L5_pmfNY_U-2NwdA8HiLcg",
+  "Created": "2026-09-02T18:44:59.2714421Z",
+  "Updated": "2026-09-02T18:44:59.2714421Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.10.3.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.7.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

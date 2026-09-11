@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="vtJcv9rNDEWvnHK-Z87IWA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="skyscanner.com.tr/ucak-bileti" DesignTimeRectangle="245, 459, 366, 50" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl aaname='Tek yön' parentid='popover-TripTypeTopLevel' tag='SPAN' /&gt;" Guid="b4d7d4d3-19d3-4891-9fb2-23a9e2ba18ab" ScopeSelectorArgument="&lt;html app='chrome.exe' url='https://www.skyscanner.com.tr/ucak-bileti' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="0b8db4a27617f2cb9740741ed2d65f4e.jpg" xmlns="">0uLvgXPOajEeqb12ZqLdAjw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

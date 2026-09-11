@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="PzupJHAIe0--lNjEZkLteg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="skyscanner.com.tr/tasima/kalkis-yeri/ista/261005" DesignTimeRectangle="195, 180, 216, 50" ElementType="Icon" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl tag='svg' /&gt;" Guid="1961ff73-2043-4744-aa35-0bb24f7f898f" ScopeSelectorArgument="&lt;html app='chrome.exe' url='https://www.skyscanner.com.tr/tasima/kalkis-yeri/ista/261005/?adultsv2=1&amp;amp;cabinclass=economy&amp;amp;childrenv2=&amp;amp;ref=home&amp;amp;rtn=0&amp;amp;outboundaltsenabled=false&amp;amp;inboundaltsenabled=false' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="733452481db12e80657d6e47d6c34713.jpg" xmlns="">00uDeh9i84EKqycKLA8UOCw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Chrome REFramework ile Skyscanner Bot Süreci - Google Gemini",
+  "Type": "App",
+  "Id": "VtfcK9nQMk6Hgi5RqyxSAw",
+  "Reference": "yggEhWfhw0eG-7E0hNuquw/VtfcK9nQMk6Hgi5RqyxSAw",
+  "Created": "2026-09-02T12:17:03.0839099Z",
+  "Updated": "2026-09-02T12:17:03.0839099Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.10.3.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.7.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Gidiş Dönüş(1)",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "_bPrW1OxzkmV2_bG8fdvJA",
+  "Reference": "yggEhWfhw0eG-7E0hNuquw/_bPrW1OxzkmV2_bG8fdvJA",
+  "ParentRef": "yggEhWfhw0eG-7E0hNuquw/RjKpzaWgbkycm-V7l3Zb3A",
+  "Created": "2026-09-02T15:09:08.5967805Z",
+  "Updated": "2026-09-02T15:09:08.5967805Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.10.3.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.7.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

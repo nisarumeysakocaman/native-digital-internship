@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryScreenData ContentHash="IFKBk6rBqECqAIfIFONZIQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryScreenData.Data>
+    <TargetApp x:Key="TargetApp" Area="0, 0, 0, 0" Selector="&lt;html app='chrome.exe' url='https://www.skyscanner.com.tr/tasima/ucak-bileti/cov/esb/260907/260914/?adultsv2=1&amp;amp;cabinclass=economy&amp;amp;childrenv2=7&amp;amp;ref=home&amp;amp;rtn=1&amp;amp;preferdirects=false&amp;amp;outboundaltsenabled=false&amp;amp;inboundaltsenabled=false' /&gt;" Url="skyscanner.com.tr/tasima/ucak-bileti/cov/esb/260907/260914" />
+  </ObjectRepositoryScreenData.Data>
+</ObjectRepositoryScreenData>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="fYQ7X6l5X0qoOh8YTbDt3A" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="skyscanner.com.tr" DesignTimeRectangle="1113, 501, 260, 90" ElementType="Button" ElementVisibilityArgument="Interactive" FuzzySelectorArgument="&lt;webctrl aria-label='Lütfen kalkış tarihinizi seçin' tag='BUTTON' type='button' class='_SearchControlBtn_1ctrs_171 _DesktopBtn_1ctrs_368' aaname='KalkışKalkışTarih ekleyin' matching:aria-label='fuzzy' fuzzylevel:aria-label='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='Kalkış&amp;#xA;Tarih ekleyin' /&gt;" Guid="d7477de8-a863-4014-b1f1-188cee42b16b" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Ucuz uçak bileti: en uygun uçak bileti fiyatlarını bulun | Skyscanner' /&gt;" SearchSteps="FuzzySelector" Version="V6" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="1133, 544, 220, 30" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname='Tarih ekleyin' parentid='app-root' tag='SPAN' type='' class='BpkText_bpk-text__YTA4Y BpkText_bpk-text--body-default__ZjEwZ BpkText_bpk-text--text-secondary__NzYyN _placeholder_1ctrs_226' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' matching:parentid='fuzzy' fuzzylevel:parentid='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' check:innerText='Tarih ekleyin' /&gt;" Guid="4d3de353-66ca-4310-95ad-4918e23135f6" SearchSteps="FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="91bb36cc95cae5ca7b7cc93c8286f3ba.jpg" xmlns="">03UtOR79vUUmbWXdyYwYskA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

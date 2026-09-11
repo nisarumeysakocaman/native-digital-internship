@@ -1,0 +1,6 @@
+{
+  "Name": "Native_Skyscanner_Homework",
+  "ProjectType": "Process",
+  "Description": "Skyscanner sitesinde bazı uçuşlar aratılır ve arama sonuçları excele kaydedilir.Beklenmeyen arama sonuçları ise mail ile bildirilir.",
+  "MainFile": "Main.xaml"
+}

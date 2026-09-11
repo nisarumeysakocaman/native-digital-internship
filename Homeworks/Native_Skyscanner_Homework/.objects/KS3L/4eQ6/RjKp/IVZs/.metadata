@@ -1,0 +1,13 @@
+﻿{
+  "Name": "1 yetişkin, Ekonomi1 ye…",
+  "Type": "Element",
+  "Id": "IVZswu7nakOW3c9vjAmcNA",
+  "Reference": "yggEhWfhw0eG-7E0hNuquw/IVZswu7nakOW3c9vjAmcNA",
+  "ParentRef": "yggEhWfhw0eG-7E0hNuquw/RjKpzaWgbkycm-V7l3Zb3A",
+  "Created": "2026-09-02T18:24:41.6142563Z",
+  "Updated": "2026-09-02T18:24:41.6142563Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.10.3.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.7.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

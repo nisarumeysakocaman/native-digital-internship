@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Eylül",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "qUfGSEyAVk2ssc-UO3ow7w",
+  "Reference": "yggEhWfhw0eG-7E0hNuquw/qUfGSEyAVk2ssc-UO3ow7w",
+  "ParentRef": "yggEhWfhw0eG-7E0hNuquw/RjKpzaWgbkycm-V7l3Zb3A",
+  "Created": "2026-09-02T22:26:08.3553802Z",
+  "Updated": "2026-09-02T22:26:08.3553802Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.10.3.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.7.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

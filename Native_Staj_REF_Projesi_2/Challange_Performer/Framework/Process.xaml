@@ -141,10 +141,10 @@
               </sap:WorkflowViewStateService.ViewState>
               <uix:NTypeInto ActivateBefore="True" ClickBeforeMode="Single" DisplayName="Type Into 'Address'" EmptyFieldMode="SingleLine" HealingAgentBehavior="SameAsCard" sap:VirtualizedContainerService.HintSize="416,297.6" sap2010:WorkflowViewState.IdRef="NTypeInto_3" InteractionMode="SameAsCard" ScopeIdentifier="322fc079-c66a-444b-a77a-ecf5b9b49399" Text="[in_TransactionItem.SpecificContent(&quot;Address&quot;).ToString]" Version="V5">
                 <uix:NTypeInto.Target>
-                  <uix:TargetAnchorable BrowserURL="rpachallenge.com" ContentHash="CKTHyaRC_EGugPua6KmGUA" DesignTimeRectangle="0, 0, 1938, 1218" ElementType="InputBox" ElementVisibilityArgument="Interactive" Guid="7cf3651e-e8fc-4150-9138-0e23a43bb655" InformativeScreenshot="5f51da0535681ecd603466e00fd382a5.jpg" IsResponsive="True" Reference="NONNhJAOS0Cy9eiP9fQLqg/XGjM2SOCoEO_1j1SxMBtYg" ScopeSelectorArgument="&lt;html app='chrome.exe' url='https://rpachallenge.com/' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive">
+                  <uix:TargetAnchorable BrowserURL="rpachallenge.com" ContentHash="mxijNZVx1ku8kn7xibUnpQ" DesignTimeRectangle="623, 440, 378, 57" ElementType="InputBox" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl tag='INPUT' ng-reflect-name='labelAddress' /&gt;" Guid="5c233dc6-cc3a-4ec6-9a84-0ed2e3c6d32c" InformativeScreenshot="ade625cabee80fce48937975a32656ea.jpg" IsResponsive="True" Reference="NONNhJAOS0Cy9eiP9fQLqg/XGjM2SOCoEO_1j1SxMBtYg" ScopeSelectorArgument="&lt;html app='chrome.exe' url='https://rpachallenge.com/' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive">
                     <uix:TargetAnchorable.Anchors>
                       <scg:List x:TypeArguments="uix:ITarget" Capacity="1">
-                        <uix:Target DesignTimeRectangle="623, 305, 61, 21" ElementType="Text" FullSelectorArgument="&lt;webctrl tag='LABEL' aaname='Address' /&gt;" Guid="0ef3cffc-caab-4766-8d52-1e843cb8199f" SearchSteps="Selector" />
+                        <uix:Target DesignTimeRectangle="623, 416, 61, 21" ElementType="Text" FullSelectorArgument="&lt;webctrl aaname='Address' tag='LABEL' /&gt;" Guid="8e3b7f2e-2df4-4c05-ba9a-6dee70094ed2" SearchSteps="Selector" />
                       </scg:List>
                     </uix:TargetAnchorable.Anchors>
                   </uix:TargetAnchorable>
@@ -162,10 +162,10 @@
               </uix:NTypeInto>
               <uix:NTypeInto ActivateBefore="True" ClickBeforeMode="Single" DisplayName="Type Into 'First Name'" EmptyFieldMode="SingleLine" HealingAgentBehavior="SameAsCard" sap:VirtualizedContainerService.HintSize="416,297.6" sap2010:WorkflowViewState.IdRef="NTypeInto_2" InteractionMode="SameAsCard" ScopeIdentifier="322fc079-c66a-444b-a77a-ecf5b9b49399" Text="[in_TransactionItem.SpecificContent(&quot;FirstName&quot;).ToString]" Version="V5">
                 <uix:NTypeInto.Target>
-                  <uix:TargetAnchorable BrowserURL="rpachallenge.com" ContentHash="WGpza99mHkuZQXTcupNIAg" DesignTimeRectangle="623, 440, 378, 57" ElementType="InputBox" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl name='8rGTY' tag='INPUT' /&gt;" Guid="ebea72d6-79fb-4cc6-914a-8d0a7c606711" InformativeScreenshot="cfeb1a34a6bf90202c0bf34f733ddf89.jpg" IsResponsive="True" Reference="NONNhJAOS0Cy9eiP9fQLqg/M-asJuMJMkaR1nqIs26T6Q" ScopeSelectorArgument="&lt;html app='chrome.exe' url='https://rpachallenge.com/' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive">
+                  <uix:TargetAnchorable BrowserURL="rpachallenge.com" ContentHash="YXbwAHCeMkimDr0LdLUQ9g" DesignTimeRectangle="1029, 440, 378, 57" ElementType="InputBox" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl tag='INPUT' ng-reflect-name='labelFirstName' /&gt;" Guid="98c4a57e-a635-4c45-99ba-21a815103ccf" InformativeScreenshot="1ac20ab657f4740d7e5f591ad5cbb1ac.jpg" IsResponsive="True" Reference="NONNhJAOS0Cy9eiP9fQLqg/M-asJuMJMkaR1nqIs26T6Q" ScopeSelectorArgument="&lt;html app='chrome.exe' url='https://rpachallenge.com/' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive">
                     <uix:TargetAnchorable.Anchors>
                       <scg:List x:TypeArguments="uix:ITarget" Capacity="1">
-                        <uix:Target DesignTimeRectangle="623, 416, 80, 21" ElementType="Text" FullSelectorArgument="&lt;webctrl aaname='First Name' tag='LABEL' /&gt;" Guid="0f605a74-bce2-4761-864f-4acf9cf2fa0f" SearchSteps="Selector" />
+                        <uix:Target DesignTimeRectangle="1029, 416, 80, 21" ElementType="Text" FullSelectorArgument="&lt;webctrl aaname='First Name' tag='LABEL' /&gt;" Guid="f5b67f68-b121-4243-b558-bde699c0616f" SearchSteps="Selector" />
                       </scg:List>
                     </uix:TargetAnchorable.Anchors>
                   </uix:TargetAnchorable>
@@ -183,15 +183,12 @@
               </uix:NTypeInto>
               <uix:NTypeInto ActivateBefore="True" ClickBeforeMode="Single" DisplayName="Type Into 'Last Name'" EmptyFieldMode="SingleLine" HealingAgentBehavior="SameAsCard" sap:VirtualizedContainerService.HintSize="416,297.6" sap2010:WorkflowViewState.IdRef="NTypeInto_4" InteractionMode="SameAsCard" ScopeIdentifier="322fc079-c66a-444b-a77a-ecf5b9b49399" Text="[in_TransactionItem.SpecificContent(&quot;LastName&quot;).ToString]" Version="V5">
                 <uix:NTypeInto.Target>
-                  <uix:TargetAnchorable BrowserURL="rpachallenge.com" ContentHash="U-3ywc6w00GxAO5EDfYFBQ" DesignTimeRectangle="1029, 440, 378, 57" ElementType="InputBox" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl tag='INPUT' idx='4' /&gt;" Guid="c738a4a8-add0-42b1-9696-844c8437ac01" InformativeScreenshot="dfbe60bf684c56201319eb2ae3d0e14e.jpg" IsResponsive="True" Reference="NONNhJAOS0Cy9eiP9fQLqg/BbHcBUjfvUKk9ScDR0SmFA" ScopeSelectorArgument="&lt;html app='chrome.exe' url='https://rpachallenge.com/' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive">
+                  <uix:TargetAnchorable BrowserURL="rpachallenge.com" ContentHash="hKK_3eSOOUarLQPNp-iDLg" DesignTimeRectangle="623, 660, 378, 58" ElementType="InputBox" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl tag='INPUT' ng-reflect-name='labelLastName' /&gt;" Guid="5ed46f53-bb41-4fda-a4d1-483e5c148010" InformativeScreenshot="6c7952125937f237cac235c66c404855.jpg" IsResponsive="True" Reference="NONNhJAOS0Cy9eiP9fQLqg/BbHcBUjfvUKk9ScDR0SmFA" ScopeSelectorArgument="&lt;html app='chrome.exe' url='https://rpachallenge.com/' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive">
                     <uix:TargetAnchorable.Anchors>
-                      <scg:List x:TypeArguments="uix:ITarget" Capacity="4">
-                        <uix:Target DesignTimeRectangle="1029, 416, 79, 21" ElementType="Text" FullSelectorArgument="&lt;webctrl aaname='Last Name' tag='LABEL' /&gt;" Guid="3c4d933d-9f3b-4eb3-86a8-607aa5e31a10" SearchSteps="Selector" />
+                      <scg:List x:TypeArguments="uix:ITarget" Capacity="1">
+                        <uix:Target DesignTimeRectangle="623, 636, 80, 21" ElementType="Text" FullSelectorArgument="&lt;webctrl aaname='Last Name' tag='LABEL' /&gt;" Guid="9a4b7ced-cc92-45d8-be61-055d5c6a33af" SearchSteps="Selector" />
                       </scg:List>
                     </uix:TargetAnchorable.Anchors>
-                    <uix:TargetAnchorable.PointOffset>
-                      <uix:PointOffset X="-1" Y="-4" />
-                    </uix:TargetAnchorable.PointOffset>
                   </uix:TargetAnchorable>
                 </uix:NTypeInto.Target>
                 <uix:NTypeInto.VerifyOptions>
@@ -207,10 +204,10 @@
               </uix:NTypeInto>
               <uix:NTypeInto ActivateBefore="True" ClickBeforeMode="Single" DisplayName="Type Into 'Phone Number'" EmptyFieldMode="SingleLine" HealingAgentBehavior="SameAsCard" sap:VirtualizedContainerService.HintSize="416,297.6" sap2010:WorkflowViewState.IdRef="NTypeInto_5" InteractionMode="SameAsCard" ScopeIdentifier="322fc079-c66a-444b-a77a-ecf5b9b49399" Text="[in_TransactionItem.SpecificContent(&quot;PhoneNumber&quot;).ToString]" Version="V5">
                 <uix:NTypeInto.Target>
-                  <uix:TargetAnchorable BrowserURL="rpachallenge.com" ContentHash="G85nXlklsk2CkQyWZHOVTg" DesignTimeRectangle="1029, 329, 378, 58" ElementType="InputBox" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl tag='INPUT' idx='2' /&gt;" Guid="06808b82-ee56-4c82-bf15-1de0cdce83ca" InformativeScreenshot="15cbb8d06c56d6f02d0ccf8c4ebd2006.jpg" IsResponsive="True" Reference="NONNhJAOS0Cy9eiP9fQLqg/6dOkS2gy9U2GRu9C07Ezkg" ScopeSelectorArgument="&lt;html app='chrome.exe' url='https://rpachallenge.com/' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive">
+                  <uix:TargetAnchorable BrowserURL="rpachallenge.com" ContentHash="-QpYeFi1FEqIX3NqbCmVHw" DesignTimeRectangle="623, 550, 378, 57" ElementType="InputBox" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl tag='INPUT' ng-reflect-name='labelPhone' /&gt;" Guid="60d1467a-70b7-48ec-a587-736ccdff17e5" InformativeScreenshot="f969d68541f73fb59f1c10b284884ecb.jpg" IsResponsive="True" Reference="NONNhJAOS0Cy9eiP9fQLqg/6dOkS2gy9U2GRu9C07Ezkg" ScopeSelectorArgument="&lt;html app='chrome.exe' url='https://rpachallenge.com/' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive">
                     <uix:TargetAnchorable.Anchors>
-                      <scg:List x:TypeArguments="uix:ITarget" Capacity="4">
-                        <uix:Target DesignTimeRectangle="1029, 305, 111, 21" ElementType="Text" FullSelectorArgument="&lt;webctrl aaname='Phone Number' tag='LABEL' /&gt;" Guid="341b0550-027d-43af-91dd-9f81821f72e0" SearchSteps="Selector" />
+                      <scg:List x:TypeArguments="uix:ITarget" Capacity="1">
+                        <uix:Target DesignTimeRectangle="623, 526, 112, 21" ElementType="Text" FullSelectorArgument="&lt;webctrl aaname='Phone Number' tag='LABEL' /&gt;" Guid="4f159a80-4c22-46d5-8374-1d06ba95241b" SearchSteps="Selector" />
                       </scg:List>
                     </uix:TargetAnchorable.Anchors>
                   </uix:TargetAnchorable>
@@ -228,10 +225,10 @@
               </uix:NTypeInto>
               <uix:NTypeInto ActivateBefore="True" ClickBeforeMode="Single" DisplayName="Type Into 'Company Name'" EmptyFieldMode="SingleLine" HealingAgentBehavior="SameAsCard" sap:VirtualizedContainerService.HintSize="416,297.6" sap2010:WorkflowViewState.IdRef="NTypeInto_8" InteractionMode="SameAsCard" ScopeIdentifier="322fc079-c66a-444b-a77a-ecf5b9b49399" Text="[in_TransactionItem.SpecificContent(&quot;CompanyName&quot;).ToString]" Version="V5">
                 <uix:NTypeInto.Target>
-                  <uix:TargetAnchorable BrowserURL="rpachallenge.com" ContentHash="fIWMt2_-KU-fTTNIQUKwLQ" DesignTimeRectangle="623, 550, 378, 57" ElementType="InputBox" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl name='8wzDU' tag='INPUT' /&gt;" Guid="660f0456-cab2-4bf0-a428-61cd11ce9cf3" InformativeScreenshot="535609fe5042fb066d42232915be7e54.jpg" IsResponsive="True" Reference="NONNhJAOS0Cy9eiP9fQLqg/MQpkCJTEbUGp_I7tz0EFIg" ScopeSelectorArgument="&lt;html app='chrome.exe' url='https://rpachallenge.com/' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive">
+                  <uix:TargetAnchorable BrowserURL="rpachallenge.com" ContentHash="4CW0EtqKIEW53Gv95Sd9mw" DesignTimeRectangle="1029, 550, 378, 57" ElementType="InputBox" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl tag='INPUT' ng-reflect-name='labelCompanyName' /&gt;" Guid="1501ec8f-ec22-4442-9829-d3818c64e301" InformativeScreenshot="0f224d538323d112509b38d22f2257dc.jpg" IsResponsive="True" Reference="NONNhJAOS0Cy9eiP9fQLqg/MQpkCJTEbUGp_I7tz0EFIg" ScopeSelectorArgument="&lt;html app='chrome.exe' url='https://rpachallenge.com/' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive">
                     <uix:TargetAnchorable.Anchors>
-                      <scg:List x:TypeArguments="uix:ITarget" Capacity="4">
-                        <uix:Target DesignTimeRectangle="623, 526, 125, 21" ElementType="Text" FullSelectorArgument="&lt;webctrl aaname='Company Name' tag='LABEL' /&gt;" Guid="ae26620c-5fdc-4d94-ac73-e312af9557b6" SearchSteps="Selector" />
+                      <scg:List x:TypeArguments="uix:ITarget" Capacity="1">
+                        <uix:Target DesignTimeRectangle="1029, 526, 124, 21" ElementType="Text" FullSelectorArgument="&lt;webctrl aaname='Company Name' tag='LABEL' /&gt;" Guid="19b40f4d-cf7a-4f0e-a617-f151a20f1606" SearchSteps="Selector" />
                       </scg:List>
                     </uix:TargetAnchorable.Anchors>
                   </uix:TargetAnchorable>
@@ -249,10 +246,10 @@
               </uix:NTypeInto>
               <uix:NTypeInto ActivateBefore="True" ClickBeforeMode="Single" DisplayName="Type Into 'Email'" EmptyFieldMode="SingleLine" HealingAgentBehavior="SameAsCard" sap:VirtualizedContainerService.HintSize="416,297.6" sap2010:WorkflowViewState.IdRef="NTypeInto_6" InteractionMode="SameAsCard" ScopeIdentifier="322fc079-c66a-444b-a77a-ecf5b9b49399" Text="[in_TransactionItem.SpecificContent(&quot;Email&quot;).ToString]" Version="V5">
                 <uix:NTypeInto.Target>
-                  <uix:TargetAnchorable BrowserURL="rpachallenge.com" ContentHash="1zb44I-eJ0OYnzOdDKyxMw" DesignTimeRectangle="1029, 550, 378, 57" ElementType="InputBox" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl name='1agIw' tag='INPUT' /&gt;" Guid="b8f199da-9355-4565-af7f-95dee9c2222f" InformativeScreenshot="d4783a6ac51c89752c11caca89b44534.jpg" IsResponsive="True" Reference="NONNhJAOS0Cy9eiP9fQLqg/IDvy98tTeUaNpvy0h6DGqQ" ScopeSelectorArgument="&lt;html app='chrome.exe' url='https://rpachallenge.com/' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive">
+                  <uix:TargetAnchorable BrowserURL="rpachallenge.com" ContentHash="SoamwcH9Rkqh6RZdKcb5pg" DesignTimeRectangle="1029, 329, 378, 58" ElementType="InputBox" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl tag='INPUT' ng-reflect-name='labelEmail' /&gt;" Guid="913d0706-6251-461c-b090-7dba30ea2c48" InformativeScreenshot="f7b8f8318c6ae4863cc6cfbd3b50abd9.jpg" IsResponsive="True" Reference="NONNhJAOS0Cy9eiP9fQLqg/IDvy98tTeUaNpvy0h6DGqQ" ScopeSelectorArgument="&lt;html app='chrome.exe' url='https://rpachallenge.com/' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive">
                     <uix:TargetAnchorable.Anchors>
-                      <scg:List x:TypeArguments="uix:ITarget" Capacity="4">
-                        <uix:Target DesignTimeRectangle="1029, 526, 41, 21" ElementType="Text" FullSelectorArgument="&lt;webctrl aaname='Email' tag='LABEL' /&gt;" Guid="cf21bd44-61a3-4084-b6da-ed35113ce7d2" SearchSteps="Selector" />
+                      <scg:List x:TypeArguments="uix:ITarget" Capacity="1">
+                        <uix:Target DesignTimeRectangle="1029, 305, 41, 21" ElementType="Text" FullSelectorArgument="&lt;webctrl aaname='Email' tag='LABEL' /&gt;" Guid="c2e53e16-241f-4ba5-9c6b-1494db57dc3f" SearchSteps="Selector" />
                       </scg:List>
                     </uix:TargetAnchorable.Anchors>
                   </uix:TargetAnchorable>
@@ -270,10 +267,10 @@
               </uix:NTypeInto>
               <uix:NTypeInto ActivateBefore="True" ClickBeforeMode="Single" DisplayName="Type Into 'Role in Company'" EmptyFieldMode="SingleLine" HealingAgentBehavior="SameAsCard" sap:VirtualizedContainerService.HintSize="416,297.6" sap2010:WorkflowViewState.IdRef="NTypeInto_7" InteractionMode="SameAsCard" ScopeIdentifier="322fc079-c66a-444b-a77a-ecf5b9b49399" Text="[in_TransactionItem.SpecificContent(&quot;RoleInCompany&quot;).ToString]" Version="V5">
                 <uix:NTypeInto.Target>
-                  <uix:TargetAnchorable BrowserURL="rpachallenge.com" ContentHash="m7o8OmdyvkmRI-oS1RzAjQ" DesignTimeRectangle="623, 660, 378, 58" ElementType="InputBox" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl name='n3Edz' tag='INPUT' /&gt;" Guid="f18a2548-0cc4-4aba-9326-aad58f6a8a72" InformativeScreenshot="93dc9d6876e4341be074f1f5aea35e14.jpg" IsResponsive="True" Reference="NONNhJAOS0Cy9eiP9fQLqg/QxNOmt9FmEilndo7ZfDRHA" ScopeSelectorArgument="&lt;html app='chrome.exe' url='https://rpachallenge.com/' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive">
+                  <uix:TargetAnchorable BrowserURL="rpachallenge.com" ContentHash="Q77aaVrpw0mK7Ka-3LfYoQ" DesignTimeRectangle="623, 329, 378, 58" ElementType="InputBox" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl tag='INPUT' ng-reflect-name='labelRole' /&gt;" Guid="84584771-2e26-43d2-bba0-fe6f1b90bbff" InformativeScreenshot="a91a5db0357ce5da3d023ed29688f1a4.jpg" IsResponsive="True" Reference="NONNhJAOS0Cy9eiP9fQLqg/QxNOmt9FmEilndo7ZfDRHA" ScopeSelectorArgument="&lt;html app='chrome.exe' url='https://rpachallenge.com/' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive">
                     <uix:TargetAnchorable.Anchors>
-                      <scg:List x:TypeArguments="uix:ITarget" Capacity="4">
-                        <uix:Target DesignTimeRectangle="623, 636, 128, 21" ElementType="Text" FullSelectorArgument="&lt;webctrl aaname='Role in Company' tag='LABEL' /&gt;" Guid="ca625542-de58-4215-9aa5-8d001fb596a6" SearchSteps="Selector" />
+                      <scg:List x:TypeArguments="uix:ITarget" Capacity="1">
+                        <uix:Target DesignTimeRectangle="623, 305, 128, 21" ElementType="Text" FullSelectorArgument="&lt;webctrl tag='LABEL' aaname='Role in Company' /&gt;" Guid="2f84a464-f4dc-436a-b0b2-e145adfb6179" SearchSteps="Selector" />
                       </scg:List>
                     </uix:TargetAnchorable.Anchors>
                   </uix:TargetAnchorable>
@@ -305,7 +302,7 @@
           </ActivityFunc>
         </uix:NApplicationCard.OCREngine>
         <uix:NApplicationCard.TargetApp>
-          <uix:TargetApp Area="-9, -9, 1938, 1218" BrowserType="Chrome" ContentHash="yevWfIAD9Uqrb2lNUBwaCw" IconBase64="iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAScwAAEnMBjCK5BwAAAsJJREFUWEftlj9IclEYxq1NG4xAodyaRJDCTZCWtlAhSHBwEAeHxFy0qcXNpiAog4YQhwhERNFBglr8NwUODv5BBAXBwJQGK+LEOXDPd897vd4rt49v+X7wgvd9nvOe516996pC/xgVbCxDrVZDKpWKVKPRgLIsFAVQq9U0gMFggLIsFAXY3d2lAfb29qAsC0UBut0u2fzo6AhKslEUIBaLkQBKULTaaDQim80G20uxdIDX11dULBZRKpUiZ+9wOND9/T16enpC7+/v0C6JrACVSgUdHBzQH5xUud1u1Gw24Zi5LAzQ7/fRxsaGYAOuVldXBT1+4a9oNpvBsQyiAeLxuGBgIBBA5XIZWimPj4/I4/EI1uG+GHMDXF5eMgMuLi6gRZJwOCwrhCBAq9ViFn5+fkKLbHq9nuQsQQD+4xXSbrdROp2Gbcrd3R0aj8dMbzAY0HkWi4XRMMwuz8/P1JxIJPgSgdOy2SyUUDQaFQ0eiUSoNhqNGI1xO51O0SH48nHazc0NlFEwGBRdi+G009NTts8/WFlZIab9/X1+m/D19UWH3N7eQhmFQqGFAba2tohmMpmYPuMWS4n5+Pig+vX1NZTR8fHxwgBiV5ceDYdDari6umJMHJz+8vICJZRMJom2vr4OJcLJycniANVqlRrOz88ZE5/pdApbFHwSYni9Xjr/7e2N9mmAfD5PDZubm9TwW3CzcXU6nT997kOhUGBMdrudmpRiNpulA9TrdcbElc/nI+EmkwldJAW+1/EDy+VyCebh+v7+pt65d4FUra2tIb1eT/6I4tLpdMwTVKqYPfkHh4eHAvNv19nZGX9L4bsALvjNwlcOIgiAwZcULlZaOzs7cBvC3ACYTCaDtre3BYOWLfwGLJVKcDxFNACfh4cH5Pf7yTCNRiPYhCutVousVit5L+RyOThmLrIC/E3+B/gBD7ydkwql2HYAAAAASUVORK5CYII=" InformativeScreenshot="30c2cb15fa90b6ebf338ccc224f1e27d.jpg" Reference="NONNhJAOS0Cy9eiP9fQLqg/H4qwQC15sEqgZ27xc_2TCw" Selector="&lt;html app='chrome.exe' url='https://rpachallenge.com/' /&gt;" Url="https://rpachallenge.com/" Version="V3">
+          <uix:TargetApp Area="-9, -9, 1938, 1218" BrowserType="Chrome" ContentHash="7_cQfAO6cEGb2Nl2-C8B8A" IconBase64="iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAScwAAEnMBjCK5BwAAAsJJREFUWEftlj9IclEYxq1NG4xAodyaRJDCTZCWtlAhSHBwEAeHxFy0qcXNpiAog4YQhwhERNFBglr8NwUODv5BBAXBwJQGK+LEOXDPd897vd4rt49v+X7wgvd9nvOe516996pC/xgVbCxDrVZDKpWKVKPRgLIsFAVQq9U0gMFggLIsFAXY3d2lAfb29qAsC0UBut0u2fzo6AhKslEUIBaLkQBKULTaaDQim80G20uxdIDX11dULBZRKpUiZ+9wOND9/T16enpC7+/v0C6JrACVSgUdHBzQH5xUud1u1Gw24Zi5LAzQ7/fRxsaGYAOuVldXBT1+4a9oNpvBsQyiAeLxuGBgIBBA5XIZWimPj4/I4/EI1uG+GHMDXF5eMgMuLi6gRZJwOCwrhCBAq9ViFn5+fkKLbHq9nuQsQQD+4xXSbrdROp2Gbcrd3R0aj8dMbzAY0HkWi4XRMMwuz8/P1JxIJPgSgdOy2SyUUDQaFQ0eiUSoNhqNGI1xO51O0SH48nHazc0NlFEwGBRdi+G009NTts8/WFlZIab9/X1+m/D19UWH3N7eQhmFQqGFAba2tohmMpmYPuMWS4n5+Pig+vX1NZTR8fHxwgBiV5ceDYdDari6umJMHJz+8vICJZRMJom2vr4OJcLJycniANVqlRrOz88ZE5/pdApbFHwSYni9Xjr/7e2N9mmAfD5PDZubm9TwW3CzcXU6nT997kOhUGBMdrudmpRiNpulA9TrdcbElc/nI+EmkwldJAW+1/EDy+VyCebh+v7+pt65d4FUra2tIb1eT/6I4tLpdMwTVKqYPfkHh4eHAvNv19nZGX9L4bsALvjNwlcOIgiAwZcULlZaOzs7cBvC3ACYTCaDtre3BYOWLfwGLJVKcDxFNACfh4cH5Pf7yTCNRiPYhCutVousVit5L+RyOThmLrIC/E3+B/gBD7ydkwql2HYAAAAASUVORK5CYII=" InformativeScreenshot="30c2cb15fa90b6ebf338ccc224f1e27d.jpg" Reference="NONNhJAOS0Cy9eiP9fQLqg/H4qwQC15sEqgZ27xc_2TCw" Selector="&lt;html app='chrome.exe' url='*rpachallenge.com*' /&gt;" Url="https://rpachallenge.com/" Version="V3">
             <uix:TargetApp.Arguments>
               <InArgument x:TypeArguments="x:String" />
             </uix:TargetApp.Arguments>
