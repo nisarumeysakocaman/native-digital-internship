@@ -1,0 +1,13 @@
+﻿{
+  "Name": "TODO Indicate — Google Chrome uygulamasını aç",
+  "Type": "Screen",
+  "Id": "qBOGdhY4CE68OrMyjwy2gQ",
+  "Reference": "-PT3USTR-UKEeEqjrK4Mgw/qBOGdhY4CE68OrMyjwy2gQ",
+  "ParentRef": "-PT3USTR-UKEeEqjrK4Mgw/k3aRZX8YE0mED6CTdkgEyQ",
+  "Created": "2026-09-13T08:52:30.8129401Z",
+  "Updated": "2026-09-13T08:52:30.8129401Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.10.3.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.7.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

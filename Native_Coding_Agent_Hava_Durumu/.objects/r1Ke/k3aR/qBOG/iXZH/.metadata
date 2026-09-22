@@ -1,0 +1,14 @@
+﻿{
+  "Name": "TODO Indicate — Hava durumu derecesini oku",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "iXZHR3z__UqnWnHjD6XvoA",
+  "Reference": "-PT3USTR-UKEeEqjrK4Mgw/iXZHR3z__UqnWnHjD6XvoA",
+  "ParentRef": "-PT3USTR-UKEeEqjrK4Mgw/qBOGdhY4CE68OrMyjwy2gQ",
+  "Created": "2026-09-13T08:54:32.3624487Z",
+  "Updated": "2026-09-13T08:54:32.3624487Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.10.3.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.7.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

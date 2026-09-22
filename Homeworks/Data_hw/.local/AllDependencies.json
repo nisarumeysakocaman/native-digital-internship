@@ -21474,9 +21474,9 @@
     "restore": {
       "projectUniqueName": "Data_hw",
       "projectName": "Data_hw",
-      "projectPath": "C:\\Users\\nisar\\Desktop\\native-internship-folder\\Data_hw\\.local",
+      "projectPath": "C:\\Users\\nisar\\Desktop\\native-internship-folder\\Homeworks\\Data_hw\\.local",
       "packagesPath": "C:\\Users\\nisar\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\nisar\\Desktop\\native-internship-folder\\Data_hw\\.local",
+      "outputPath": "C:\\Users\\nisar\\Desktop\\native-internship-folder\\Homeworks\\Data_hw\\.local",
       "UsingMicrosoftNETSdk": false,
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -21504,7 +21504,7 @@
             "version": "[25.10.38, 25.10.38]"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\UiPathPlatform\\Studio\\26.0.199-cloud.24444\\PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\UiPathPlatform\\Studio\\26.0.201-cloud.24739\\SolutionPackager\\Tools\\WorkflowCompiler\\PortableRuntimeIdentifierGraph.json"
       }
     },
     "runtimes": {

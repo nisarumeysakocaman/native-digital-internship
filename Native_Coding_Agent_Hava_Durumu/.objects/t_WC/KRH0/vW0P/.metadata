@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Google Search Home",
+  "Description": "Google homepage used to enter a city weather search query",
+  "Type": "Screen",
+  "Id": "vW0Pt-jHLESag7IpB6UyyA",
+  "Reference": "-PT3USTR-UKEeEqjrK4Mgw/vW0Pt-jHLESag7IpB6UyyA",
+  "ParentRef": "-PT3USTR-UKEeEqjrK4Mgw/KRH05L3fKEuQp2BAD4wwmA",
+  "Created": "2026-09-13T09:03:59.6790802Z",
+  "Updated": "2026-09-13T09:03:59.6790802Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.10.3.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

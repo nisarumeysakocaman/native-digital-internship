@@ -1,0 +1,9 @@
+{
+  "ActivityType": "GetText",
+  "Anchor0": null,
+  "Anchor1": null,
+  "Anchor2": null,
+  "Anchor3": null,
+  "Name": "Google Weather Temperature",
+  "Description": "Current temperature value shown in the Google weather widget on the search results page"
+}

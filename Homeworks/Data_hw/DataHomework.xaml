@@ -116,7 +116,7 @@
       <AssemblyReference>System.Runtime.Numerics</AssemblyReference>
     </sco:Collection>
   </TextExpression.ReferencesForImplementation>
-  <Sequence sap:VirtualizedContainerService.HintSize="854,7628.8" sap2010:WorkflowViewState.IdRef="Sequence_1">
+  <Sequence sap:VirtualizedContainerService.HintSize="963.6,7628.8" sap2010:WorkflowViewState.IdRef="Sequence_1">
     <sap:WorkflowViewStateService.ViewState>
       <scg:Dictionary x:TypeArguments="x:String, x:Object">
         <x:Boolean x:Key="IsExpanded">True</x:Boolean>
@@ -236,7 +236,7 @@
                           </uix:VerifyExecutionOptions>
                         </uix:NClick.VerifyOptions>
                       </uix:NClick>
-                      <uix:NTypeInto ActivateBefore="True" ClickBeforeMode="Single" DisplayName="Type Into kelimeyi çevir" EmptyFieldMode="[UiPath.UIAutomationNext.Enums.NEmptyFieldMode.MultiLine]" HealingAgentBehavior="SameAsCard" sap:VirtualizedContainerService.HintSize="477.6,245.6" sap2010:WorkflowViewState.IdRef="NTypeInto_2" InteractionMode="DebuggerApi" ScopeIdentifier="59b8689a-7e4e-42e0-a1aa-cee7f619655a" Text="[str_turkce]" Version="V5">
+                      <uix:NTypeInto ActivateBefore="True" ClickBeforeMode="Single" DisplayName="Type Into kelimeyi çevir" EmptyFieldMode="[UiPath.UIAutomationNext.Enums.NEmptyFieldMode.SingleLine]" HealingAgentBehavior="SameAsCard" sap:VirtualizedContainerService.HintSize="477.6,245.6" sap2010:WorkflowViewState.IdRef="NTypeInto_2" InteractionMode="DebuggerApi" ScopeIdentifier="59b8689a-7e4e-42e0-a1aa-cee7f619655a" Text="[str_turkce]" Version="V5">
                         <uix:NTypeInto.Target>
                           <uix:TargetAnchorable BrowserURL="translate.yandex.com/tr" ContentHash="S9uBZFo67Eefu93OjnXI3A" DesignTimeRectangle="434, 332, 713, 296" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl id='fakeArea' tag='DIV' /&gt;" Guid="ac391a74-733e-4323-a143-e3a4ab2e3604" InformativeScreenshot="edb5b17d66ec9543a48a862223dd4676.jpg" Reference="vKvKuUAn3EqLuxMjXQeHKw/Otl2D60wJ0y_NoTpzjSFQQ" ScopeSelectorArgument="&lt;html app='chrome.exe' /&gt;" SearchSteps="Selector" Version="V6" />
                         </uix:NTypeInto.Target>

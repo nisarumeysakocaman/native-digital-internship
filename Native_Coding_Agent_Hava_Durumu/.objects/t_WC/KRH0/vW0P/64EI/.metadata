@@ -1,0 +1,15 @@
+﻿{
+  "Name": "Google Weather Temperature",
+  "Description": "Current temperature value shown in the Google weather widget on the search results page",
+  "Type": "Element",
+  "TaxonomyType": "None",
+  "Id": "64EIWHeHbkWcYqAf6moIgg",
+  "Reference": "-PT3USTR-UKEeEqjrK4Mgw/64EIWHeHbkWcYqAf6moIgg",
+  "ParentRef": "-PT3USTR-UKEeEqjrK4Mgw/vW0Pt-jHLESag7IpB6UyyA",
+  "Created": "2026-09-13T09:08:04.7735932Z",
+  "Updated": "2026-09-13T09:08:04.7735932Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.10.3.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

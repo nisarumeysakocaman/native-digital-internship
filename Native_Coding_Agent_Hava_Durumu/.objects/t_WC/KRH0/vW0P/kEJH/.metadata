@@ -1,0 +1,15 @@
+﻿{
+  "Name": "Google Search Input Box",
+  "Description": "Main search input box in the center of the Google homepage",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "kEJHdGWHMES4VCUWYIrw0A",
+  "Reference": "-PT3USTR-UKEeEqjrK4Mgw/kEJHdGWHMES4VCUWYIrw0A",
+  "ParentRef": "-PT3USTR-UKEeEqjrK4Mgw/vW0Pt-jHLESag7IpB6UyyA",
+  "Created": "2026-09-13T09:06:22.767764Z",
+  "Updated": "2026-09-13T09:06:22.767764Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.10.3.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

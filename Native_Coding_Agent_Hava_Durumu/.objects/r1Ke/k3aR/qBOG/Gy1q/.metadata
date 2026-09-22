@@ -1,0 +1,14 @@
+﻿{
+  "Name": "TODO Indicate — Ara butonuna tıkla",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "Gy1q2W7sp0i5mKL0Vk9qaA",
+  "Reference": "-PT3USTR-UKEeEqjrK4Mgw/Gy1q2W7sp0i5mKL0Vk9qaA",
+  "ParentRef": "-PT3USTR-UKEeEqjrK4Mgw/qBOGdhY4CE68OrMyjwy2gQ",
+  "Created": "2026-09-13T08:54:12.303222Z",
+  "Updated": "2026-09-13T08:54:12.303222Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.10.3.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.7.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

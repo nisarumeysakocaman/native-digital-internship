@@ -1,0 +1,55 @@
+- Window [ref=w1540]:
+  - /process: explorer.exe
+  - /class: Shell_TrayWnd
+- Window "Native_Coding_Agent_Hava_Durumu - UiPath Studio Community" [ref=w1548]:
+  - /process: uipath.studio.exe
+  - /class: HwndWrapper[UiPath.Studio;;f91b1b5d-b0ff-40aa-ad02-12f164978548]
+- Window "Google - Google Chrome" [ref=w1553]:
+  - /process: chrome.exe
+  - /class: Chrome_WidgetWin_1
+  - BrowserTab "Bonus Features 2 - Share your Work - Unity Learn" [ref=b2292]:
+    - /url: https://learn.unity.com/tutorial/bonus-features-2-share-your-work
+  - BrowserTab "Staj Reposu İsimlendirme Önerileri - Google Gemini" [ref=b2293]:
+    - /url: https://gemini.google.com/app/8bb908f0071b55f9?hl=tr
+  - BrowserTab "Prime Video: The Mentalist: Season 3" [ref=b2294]:
+    - /url: https://www.primevideo.com/detail/0ST7XU7W1EVFNIJQ2VD9FQRALL?jic=8%7CEgNhbGw%3D&ref_=atv_hm_hom_c_cjm7wb_2_1
+  - BrowserTab "Node.js Yükleme ve Hata Çözümü - Google Gemini" [ref=b2295]:
+    - /url: https://gemini.google.com/app/fb8f2e1d8ebe3f15?hl=tr
+  - BrowserTab "Google" [ref=b2296] [selected]:
+    - /url: https://www.google.com/
+- Window "Agentic AI Dersleri  | Kişisel | nisarumeysa70@gmail.com | Microsoft Teams" [ref=w1558]:
+  - /process: ms-teams.exe
+  - /class: TeamsWebView
+- Window [ref=w1568]:
+  - /process: uipath.uiautomation.exe
+  - /class: HwndWrapper[UiPath.UIAutomation;;b079f374-29d7-40d6-903b-c90a1d54b2e7]
+- Window [ref=w1569]:
+  - /process: uipath.uiautomation.exe
+  - /class: HwndWrapper[UiPath.UIAutomation;;41740bba-8bd6-4946-b29d-ea520934fd2b]
+- Window [ref=w1570]:
+  - /process: uipath.uiautomation.exe
+  - /class: HwndWrapper[UiPath.UIAutomation;;38b18150-536e-411e-8f95-1cf42d8cd5d1]
+- Window [ref=w1571]:
+  - /process: uipath.uiautomation.exe
+  - /class: HwndWrapper[UiPath.UIAutomation;;e592e26b-9be6-4623-bcb4-4bb436c8aa32]
+- Window "Native_Coding_Agent_Hava_Durumu" [ref=w1579]:
+  - /process: uipath.studio.project.exe
+  - /class: HwndWrapper[UiPath.Studio.Project;;5581703a-81e5-4b3c-a73b-094da86c7a32]
+- Window [ref=w1585]:
+  - /process: uipath.uiautomation.exe
+  - /class: WindowsForms10.Window.8.app.0.25468f2_r3_ad1
+- Window [ref=w1595]:
+  - /process: uipath.uiautomation.exe
+  - /class: HwndWrapper[UiPath.UIAutomation;;1fc18b01-5ce0-480e-9f94-2eaede28ddb6]
+- Window [ref=w1597]:
+  - /process: uipath.uiautomation.exe
+  - /class: HwndWrapper[UiPath.UIAutomation;;a82da94c-8904-4e40-90ee-f39975a5148d]
+- Window [ref=w1600]:
+  - /process: uipath.uiautomation.exe
+  - /class: HwndWrapper[UiPath.UIAutomation;;16d6dee9-8224-4341-aff5-439fb9bdd9a5]
+- Window [ref=w1603]:
+  - /process: uipath.uiautomation.exe
+  - /class: HwndWrapper[UiPath.UIAutomation;;8b70eba8-e236-4dc8-b2da-b8e315bec72f]
+- Window "Program Manager" [ref=w1774]:
+  - /process: explorer.exe
+  - /class: Progman
