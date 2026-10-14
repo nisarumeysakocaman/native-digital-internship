@@ -23963,9 +23963,9 @@
     "restore": {
       "projectUniqueName": "Native_Staj_Day3",
       "projectName": "Native_Staj_Day3",
-      "projectPath": "C:\\Users\\nisar\\Desktop\\native-internship-folder\\Native_Staj_Day3\\.local",
+      "projectPath": "C:\\Users\\nisar\\Desktop\\native-internship-folder\\Native_Staj_DataTable_Excel_Loops\\.local",
       "packagesPath": "C:\\Users\\nisar\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\nisar\\Desktop\\native-internship-folder\\Native_Staj_Day3\\.local",
+      "outputPath": "C:\\Users\\nisar\\Desktop\\native-internship-folder\\Native_Staj_DataTable_Excel_Loops\\.local",
       "UsingMicrosoftNETSdk": false,
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -23998,7 +23998,7 @@
             "version": "[25.10.38, 25.10.38]"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\UiPathPlatform\\Studio\\26.0.201-cloud.24739\\PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Users\\nisar\\AppData\\Local\\UiPath\\Helm\\1.201.0-win32-x64\\PortableRuntimeIdentifierGraph.json"
       }
     },
     "runtimes": {

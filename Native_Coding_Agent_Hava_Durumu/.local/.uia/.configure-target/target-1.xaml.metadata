@@ -1,0 +1,12 @@
+{
+  "ActivityType": "TypeInto",
+  "Anchor0": {
+    "Name": "Google Search Button Anchor",
+    "Description": "Google Search button below the main search input box"
+  },
+  "Anchor1": null,
+  "Anchor2": null,
+  "Anchor3": null,
+  "Name": "Google Search Input Box",
+  "Description": "Main search input box in the center of the Google homepage"
+}

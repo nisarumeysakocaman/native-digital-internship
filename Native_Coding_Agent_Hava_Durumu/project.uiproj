@@ -1,0 +1,6 @@
+{
+  "Name": "Native_Coding_Agent_Hava_Durumu",
+  "ProjectType": "Process",
+  "Description": "Coding Agent ile hava durumu projesi oluşturma",
+  "MainFile": "Main.xaml"
+}

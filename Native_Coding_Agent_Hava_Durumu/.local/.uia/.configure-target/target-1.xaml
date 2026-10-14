@@ -1,0 +1,7 @@
+<uix:TargetAnchorable CVScreenId="45499ffa-a2bb-4753-bc0e-841ea59a8966" ContentHash="eJdy3k2CwUG180uXDE6oQg" CvElementArea="868, 603, 130, 54" CvType="InputBox" DesignTimeRectangle="868, 603, 130, 54" ElementType="InputBox" ElementVisibilityArgument="Interactive" Guid="75f5df73-db39-461a-a967-ff40e04f8c06" InformativeScreenshot="47c9d0009541e1064691407cf942aa51.jpg" Reference="-PT3USTR-UKEeEqjrK4Mgw/kEJHdGWHMES4VCUWYIrw0A" ScopeSelectorArgument="&lt;wnd app='chrome.exe' cls='Chrome_WidgetWin_1' title='Google - Google Chrome' /&gt;" SearchSteps="CV" TargetType="ComputerVisionBased" Version="V6" WaitForReadyArgument="Interactive">
+        <uix:TargetAnchorable.Anchors>
+          <scg:List x:TypeArguments="uix:ITarget" Capacity="1">
+            <uix:Target CVScreenId="45499ffa-a2bb-4753-bc0e-841ea59a8966" CvElementArea="345, 696, 163, 48" CvTextArea="366, 711, 119, 21" CvTextArgument="Google'da Ara" CvType="Button" DesignTimeRectangle="345, 696, 163, 48" ElementType="Button" Guid="3a921893-222b-4f7f-9418-ba0a46249d4b" SearchSteps="CV" TargetType="ComputerVisionBased" />
+          </scg:List>
+        </uix:TargetAnchorable.Anchors>
+      </uix:TargetAnchorable>

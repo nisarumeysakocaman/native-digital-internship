@@ -1,0 +1,14 @@
+﻿{
+  "Name": "TODO Indicate — Google arama kutusuna yaz",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "lw6B7iO0rkekR3AQLq7gLw",
+  "Reference": "-PT3USTR-UKEeEqjrK4Mgw/lw6B7iO0rkekR3AQLq7gLw",
+  "ParentRef": "-PT3USTR-UKEeEqjrK4Mgw/qBOGdhY4CE68OrMyjwy2gQ",
+  "Created": "2026-09-13T08:53:00.0376682Z",
+  "Updated": "2026-09-13T08:53:00.0376682Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.10.3.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.7.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

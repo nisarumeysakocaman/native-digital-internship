@@ -95,7 +95,7 @@
       <AssemblyReference>System.Linq.Async</AssemblyReference>
     </sco:Collection>
   </TextExpression.ReferencesForImplementation>
-  <Sequence DisplayName="Main Sequence" sap:VirtualizedContainerService.HintSize="854,2400" sap2010:WorkflowViewState.IdRef="Sequence_1">
+  <Sequence DisplayName="Main Sequence" sap:VirtualizedContainerService.HintSize="642,2400" sap2010:WorkflowViewState.IdRef="Sequence_1">
     <sap:WorkflowViewStateService.ViewState>
       <scg:Dictionary x:TypeArguments="x:String, x:Object">
         <x:Boolean x:Key="IsExpanded">True</x:Boolean>
@@ -177,12 +177,12 @@
                 </uix:NClick.VerifyOptions>
               </uix:NClick>
               <ui:LogMessage DisplayName="Log Message" sap:VirtualizedContainerService.HintSize="416,174.4" sap2010:WorkflowViewState.IdRef="LogMessage_6" Level="Info" Message="[&quot;google'a girildi ve hava durumu sayfası açıldı&quot;]" />
-              <uix:NGetText DisplayName="Get Text '25'" HealingAgentBehavior="SameAsCard" sap:VirtualizedContainerService.HintSize="416,142.4" sap2010:WorkflowViewState.IdRef="NGetText_2" ScopeIdentifier="40e493a9-f7ea-42d9-a94d-82974bf21795" TextString="[str_sicaklik]" Version="V5">
+              <uix:NGetText DisplayName="Get Text sıcaklığı al" HealingAgentBehavior="SameAsCard" sap:VirtualizedContainerService.HintSize="416,142.4" sap2010:WorkflowViewState.IdRef="NGetText_2" ScopeIdentifier="40e493a9-f7ea-42d9-a94d-82974bf21795" TextString="[str_sicaklik]" Version="V5">
                 <uix:NGetText.Target>
                   <uix:TargetAnchorable BrowserURL="google.com/search" ContentHash="iF1P2H4Ri0Cdboss2cEhzA" DesignTimeRectangle="359, 420, 66, 75" ElementType="Text" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl id='wob_tm' tag='SPAN' aaname='25' /&gt;" Guid="c6d7338a-c056-4d5a-8af7-7f5c7da54839" InformativeScreenshot="2baf5f9c830514a9459db7713cad0d0f.jpg" Reference="LhLYmx1ueUKMd1euRuz5Rw/xvz4moktmUK-WxiuoJf92g" ScopeSelectorArgument="&lt;html app='chrome.exe' title='istanbul hava durumu - Google&amp;apos;da Ara' /&gt;" SearchSteps="Selector" Version="V6" />
                 </uix:NGetText.Target>
               </uix:NGetText>
-              <ui:LogMessage DisplayName="Log Message" sap:VirtualizedContainerService.HintSize="416,174.4" sap2010:WorkflowViewState.IdRef="LogMessage_7" Message="[&quot;hava durumu bilgisi ekrandan alındı&quot;]" />
+              <ui:LogMessage DisplayName="Log Message" sap:VirtualizedContainerService.HintSize="416,174.4" sap2010:WorkflowViewState.IdRef="LogMessage_7" Level="Info" Message="[&quot;hava durumu bilgisi ekrandan alındı&quot;]" />
               <ui:LogMessage DisplayName="Log Message" sap:VirtualizedContainerService.HintSize="416,174.4" sap2010:WorkflowViewState.IdRef="LogMessage_4" Level="Info" Message="[&quot;hava sıcaklığı: &quot; + str_sicaklik]" />
               <ui:MessageBox Caption="{x:Null}" ChosenButton="{x:Null}" AutoCloseAfter="00:00:00" DisplayName="Message Box" sap:VirtualizedContainerService.HintSize="416,122.4" sap2010:WorkflowViewState.IdRef="MessageBox_1" Text="[&quot;hava sıcaklığı: &quot; + str_sicaklik  + &quot; derece &quot;]" />
               <ui:LogMessage DisplayName="Log Message" sap:VirtualizedContainerService.HintSize="416,165.6" sap2010:WorkflowViewState.IdRef="LogMessage_1" Message="[&quot;işlem bitti&quot;]" />

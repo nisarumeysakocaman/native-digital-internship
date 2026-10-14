@@ -1,0 +1,12 @@
+﻿{
+  "Name": "TODO Indicate — Google Chrome uygulamasını aç",
+  "Type": "App",
+  "Id": "r1Ke6Skk-Eqzuow2fVpOCw",
+  "Reference": "-PT3USTR-UKEeEqjrK4Mgw/r1Ke6Skk-Eqzuow2fVpOCw",
+  "Created": "2026-09-13T08:52:30.7097182Z",
+  "Updated": "2026-09-13T08:52:30.7097182Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.10.3.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.7.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

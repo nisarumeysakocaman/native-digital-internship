@@ -1,0 +1,15 @@
+﻿{
+  "Name": "Google Search Button",
+  "Description": "Google Search submit button below the main search input box",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "sCoQntdQ20iZdtQaG9sWTg",
+  "Reference": "-PT3USTR-UKEeEqjrK4Mgw/sCoQntdQ20iZdtQaG9sWTg",
+  "ParentRef": "-PT3USTR-UKEeEqjrK4Mgw/vW0Pt-jHLESag7IpB6UyyA",
+  "Created": "2026-09-13T09:06:22.8502881Z",
+  "Updated": "2026-09-13T09:06:22.8502881Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.10.3.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
